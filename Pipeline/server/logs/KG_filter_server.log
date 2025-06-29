@@ -1,0 +1,14 @@
+GPU FAISS数据库初始化完成 - 使用FlatL2索引
+GPU FAISS数据库初始化完成 - 使用FlatL2索引
+ * Serving Flask app 'KG_filter_server'
+ * Debug mode: on
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:6666
+ * Running on http://172.21.141.97:6666
+[33mPress CTRL+C to quit[0m
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 222-646-494
+GPU FAISS数据库初始化完成 - 使用FlatL2索引
+GPU FAISS数据库初始化完成 - 使用FlatL2索引

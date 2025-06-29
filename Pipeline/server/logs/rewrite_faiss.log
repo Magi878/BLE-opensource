@@ -1,0 +1,10 @@
+GPU FAISS服务器初始化完成
+正在加载索引: /data/ganshushen/Projects/BLE_CODE_OPEN/Faiss/database/REWRITE_DATABASE
+索引加载完成，包含 693 条数据
+ * Serving Flask app 'rewrite_faiss_server'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.21.141.97:5001
+[33mPress CTRL+C to quit[0m

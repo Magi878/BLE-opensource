@@ -1,0 +1,444 @@
+[
+    {
+      "id": 1,
+      "name": "张大爷",
+      "age": 68,
+      "gender": "男",
+      "location": {
+        "city": "北京",
+        "district": "朝阳区"
+      },
+      "health_conditions": ["轻度高血压", "血脂偏高"],
+      "taste_preferences": {
+        "flavor": "清淡",
+        "favorite_foods": ["面条", "包子"],
+        "dislikes": ["过咸食物", "过油食物"]
+      },
+      "dietary_restrictions": ["低盐饮食", "低脂饮食"],
+      "lifestyle_habits": {
+        "sleep_schedule": "早睡早起",
+        "meal_times": {
+          "lunch": "11:30-12:00"
+        }
+      },
+      "cuisine_preference": "北方菜系"
+    },
+    {
+      "id": 2,
+      "name": "李奶奶",
+      "age": 72,
+      "gender": "女",
+      "location": {
+        "city": "上海",
+        "district": "徐汇区"
+      },
+      "health_conditions": ["糖尿病", "轻度骨质疏松"],
+      "taste_preferences": {
+        "flavor": "甜味适中",
+        "favorite_foods": ["江南菜", "蒸蛋羹", "清汤"],
+        "dislikes": ["过甜食物"]
+      },
+      "dietary_restrictions": ["严格控糖", "需要高钙食物"],
+      "lifestyle_habits": {
+        "meal_schedule": "一日三餐规律",
+        "snack_time": "15:00茶点"
+      },
+      "cuisine_preference": "江南菜系"
+    },
+    {
+      "id": 3,
+      "name": "王叔叔",
+      "age": 65,
+      "gender": "男",
+      "location": {
+        "city": "广州",
+        "district": "天河区"
+      },
+      "health_conditions": ["轻微消化不良"],
+      "taste_preferences": {
+        "flavor": "清爽",
+        "favorite_foods": ["粤菜", "煲汤"],
+        "dislikes": ["过于辛辣食物", "难消化食物"]
+      },
+      "dietary_restrictions": ["避免辛辣", "易消化食物"],
+      "lifestyle_habits": {
+        "morning_tea": true,
+        "dinner_time": "18:00"
+      },
+      "cuisine_preference": "粤菜"
+    },
+    {
+      "id": 4,
+      "name": "陈奶奶",
+      "age": 70,
+      "gender": "女",
+      "location": {
+        "city": "成都",
+        "district": "武侯区"
+      },
+      "health_conditions": ["慢性胃炎", "关节炎"],
+      "taste_preferences": {
+        "flavor": "微辣",
+        "favorite_foods": ["川菜", "软烂食物", "热粥"],
+        "dislikes": ["过辣食物", "生冷食物"]
+      },
+      "dietary_restrictions": ["温热食物", "避免生冷"],
+      "lifestyle_habits": {
+        "favorite_combination": "热粥配咸菜",
+        "digestion_time": "饭后需要消食时间"
+      },
+      "cuisine_preference": "川菜"
+    },
+    {
+      "id": 5,
+      "name": "刘大爷",
+      "age": 75,
+      "gender": "男",
+      "location": {
+        "city": "西安",
+        "district": "雁塔区"
+      },
+      "health_conditions": ["冠心病", "血压控制良好"],
+      "taste_preferences": {
+        "flavor": "适度酸辣",
+        "favorite_foods": ["面食", "陕西小吃"],
+        "dislikes": ["动物内脏"]
+      },
+      "dietary_restrictions": ["低胆固醇饮食", "限制动物内脏"],
+      "lifestyle_habits": {
+        "staple_food": "面条",
+        "regional_preference": "陕西小吃"
+      },
+      "cuisine_preference": "陕西菜"
+    },
+    {
+      "id": 6,
+      "name": "赵奶奶",
+      "age": 67,
+      "gender": "女",
+      "location": {
+        "city": "杭州",
+        "district": "西湖区"
+      },
+      "health_conditions": ["轻度贫血", "睡眠质量一般"],
+      "taste_preferences": {
+        "flavor": "清淡鲜美",
+        "favorite_foods": ["鱼类", "蔬菜"],
+        "dislikes": ["浓茶", "咖啡"]
+      },
+      "dietary_restrictions": ["需要补血食物", "避免浓茶咖啡"],
+      "lifestyle_habits": {
+        "eating_pattern": "少食多餐",
+        "nutrition_focus": "营养搭配"
+      },
+      "cuisine_preference": "浙菜"
+    },
+    {
+      "id": 7,
+      "name": "孙大爷",
+      "age": 69,
+      "gender": "男",
+      "location": {
+        "city": "天津",
+        "district": "南开区"
+      },
+      "health_conditions": ["轻度脂肪肝"],
+      "taste_preferences": {
+        "flavor": "咸鲜",
+        "favorite_foods": ["天津传统小吃", "包子", "煎饼"],
+        "dislikes": ["高脂食物"]
+      },
+      "dietary_restrictions": ["低脂饮食", "控制食用油"],
+      "lifestyle_habits": {
+        "breakfast_preference": "传统早点",
+        "attachment": "包子煎饼"
+      },
+      "cuisine_preference": "津菜"
+    },
+    {
+      "id": 8,
+      "name": "周奶奶",
+      "age": 73,
+      "gender": "女",
+      "location": {
+        "city": "南京",
+        "district": "鼓楼区"
+      },
+      "health_conditions": ["慢性便秘"],
+      "taste_preferences": {
+        "flavor": "鲜甜",
+        "favorite_foods": ["苏菜", "汤品"],
+        "dislikes": ["干燥食物"]
+      },
+      "dietary_restrictions": ["高纤维食物", "多吃蔬菜水果"],
+      "lifestyle_habits": {
+        "soup_preference": "餐前喝汤",
+        "focus": "汤水搭配"
+      },
+      "cuisine_preference": "苏菜"
+    },
+    {
+      "id": 9,
+      "name": "吴大爷",
+      "age": 66,
+      "gender": "男",
+      "location": {
+        "city": "重庆",
+        "district": "渝中区"
+      },
+      "health_conditions": ["轻度痛风"],
+      "taste_preferences": {
+        "flavor": "微辣",
+        "favorite_foods": ["酸辣粉", "重庆小面"],
+        "dislikes": ["高嘌呤食物"]
+      },
+      "dietary_restrictions": ["低嘌呤饮食", "限制海鲜豆类"],
+      "lifestyle_habits": {
+        "favorite_dish": "重庆小面",
+        "control": "适量控制辛辣"
+      },
+      "cuisine_preference": "川渝菜"
+    },
+    {
+      "id": 10,
+      "name": "马奶奶",
+      "age": 71,
+      "gender": "女",
+      "location": {
+        "city": "沈阳",
+        "district": "和平区"
+      },
+      "health_conditions": ["轻度骨关节炎"],
+      "taste_preferences": {
+        "flavor": "浓郁",
+        "favorite_foods": ["东北菜", "炖菜"],
+        "dislikes": ["寒凉食物"]
+      },
+      "dietary_restrictions": ["控制盐分", "多补充钙质"],
+      "lifestyle_habits": {
+        "preference": "热腾腾的炖菜",
+        "seasonal": "冬天偏好温补食物"
+      },
+      "cuisine_preference": "东北菜"
+    },
+    {
+      "id": 11,
+      "name": "郑大爷",
+      "age": 64,
+      "gender": "男",
+      "location": {
+        "city": "青岛",
+        "district": "市南区"
+      },
+      "health_conditions": ["轻微高尿酸"],
+      "taste_preferences": {
+        "flavor": "鲜咸",
+        "favorite_foods": ["海鲜", "鲁菜"],
+        "dislikes": ["过量海鲜"]
+      },
+      "dietary_restrictions": ["适度控制海鲜", "多喝水"],
+      "lifestyle_habits": {
+        "combination": "海鲜配啤酒",
+        "moderation": "需要适量"
+      },
+      "cuisine_preference": "鲁菜"
+    },
+    {
+      "id": 12,
+      "name": "黄奶奶",
+      "age": 68,
+      "gender": "女",
+      "location": {
+        "city": "福州",
+        "district": "鼓楼区"
+      },
+      "health_conditions": ["甲状腺结节"],
+      "taste_preferences": {
+        "flavor": "清淡鲜美",
+        "favorite_foods": ["闽菜", "汤品", "蒸煮类"],
+        "dislikes": ["高碘食物"]
+      },
+      "dietary_restrictions": ["避免海带等高碘食物"],
+      "lifestyle_habits": {
+        "focus": "汤品营养",
+        "cooking_method": "蒸煮类食物"
+      },
+      "cuisine_preference": "闽菜"
+    },
+    {
+      "id": 13,
+      "name": "何大爷",
+      "age": 70,
+      "gender": "男",
+      "location": {
+        "city": "长沙",
+        "district": "岳麓区"
+      },
+      "health_conditions": ["慢性支气管炎"],
+      "taste_preferences": {
+        "flavor": "少辣",
+        "favorite_foods": ["湘菜", "清蒸类"],
+        "dislikes": ["过于辛辣刺激食物"]
+      },
+      "dietary_restrictions": ["避免辛辣刺激", "需要润燥食物"],
+      "lifestyle_habits": {
+        "temperature_focus": "注重食物温度",
+        "avoid": "过冷过热"
+      },
+      "cuisine_preference": "湘菜"
+    },
+    {
+      "id": 14,
+      "name": "谢奶奶",
+      "age": 69,
+      "gender": "女",
+      "location": {
+        "city": "武汉",
+        "district": "江汉区"
+      },
+      "health_conditions": ["轻度胆结石"],
+      "taste_preferences": {
+        "flavor": "鲜辣",
+        "favorite_foods": ["湖北菜", "面条", "热干面"],
+        "dislikes": ["高脂食物"]
+      },
+      "dietary_restrictions": ["低脂低胆固醇饮食"],
+      "lifestyle_habits": {
+        "favorite_dish": "热干面",
+        "control": "控制油脂"
+      },
+      "cuisine_preference": "鄂菜"
+    },
+    {
+      "id": 15,
+      "name": "林大爷",
+      "age": 67,
+      "gender": "男",
+      "location": {
+        "city": "厦门",
+        "district": "思明区"
+      },
+      "health_conditions": ["轻度高血糖"],
+      "taste_preferences": {
+        "flavor": "甜鲜",
+        "favorite_foods": ["闽南菜", "海鲜", "清粥"],
+        "dislikes": ["高糖食物"]
+      },
+      "dietary_restrictions": ["控制糖分摄入", "适量吃海鲜"],
+      "lifestyle_habits": {
+        "combination": "清粥配咸菜",
+        "style": "饮食相对清淡"
+      },
+      "cuisine_preference": "闽南菜"
+    },
+    {
+      "id": 16,
+      "name": "邓奶奶",
+      "age": 72,
+      "gender": "女",
+      "location": {
+        "city": "昆明",
+        "district": "五华区"
+      },
+      "health_conditions": ["轻度白内障"],
+      "taste_preferences": {
+        "flavor": "酸辣",
+        "favorite_foods": ["云南菜", "米线", "过桥米线"],
+        "dislikes": ["过于油腻食物"]
+      },
+      "dietary_restrictions": ["需要富含维生素A的食物"],
+      "lifestyle_habits": {
+        "favorite_dish": "过桥米线",
+        "preference": "酸味食物"
+      },
+      "cuisine_preference": "滇菜"
+    },
+    {
+      "id": 17,
+      "name": "石大爷",
+      "age": 74,
+      "gender": "男",
+      "location": {
+        "city": "哈尔滨",
+        "district": "道里区"
+      },
+      "health_conditions": ["慢性胃炎"],
+      "taste_preferences": {
+        "flavor": "温和",
+        "favorite_foods": ["东北菜", "软烂食物", "热粥"],
+        "dislikes": ["过酸过辣食物"]
+      },
+      "dietary_restrictions": ["需要温和食物", "避免刺激性"],
+      "lifestyle_habits": {
+        "preference": "热粥热汤",
+        "seasonal": "冬季偏好温补"
+      },
+      "cuisine_preference": "东北菜"
+    },
+    {
+      "id": 18,
+      "name": "金奶奶",
+      "age": 66,
+      "gender": "女",
+      "location": {
+        "city": "大连",
+        "district": "中山区"
+      },
+      "health_conditions": ["轻度骨质疏松"],
+      "taste_preferences": {
+        "flavor": "清淡",
+        "favorite_foods": ["海鲜", "清蒸", "清炒"],
+        "dislikes": ["高胆固醇食物"]
+      },
+      "dietary_restrictions": ["需要高钙食物", "控制胆固醇"],
+      "lifestyle_habits": {
+        "quality_focus": "注重海鲜新鲜度",
+        "cooking_style": "简单烹饪"
+      },
+      "cuisine_preference": "辽菜"
+    },
+    {
+      "id": 19,
+      "name": "许大爷",
+      "age": 71,
+      "gender": "男",
+      "location": {
+        "city": "合肥",
+        "district": "蜀山区"
+      },
+      "health_conditions": ["轻度高血压"],
+      "taste_preferences": {
+        "flavor": "咸鲜",
+        "favorite_foods": ["徽菜", "炖品"],
+        "dislikes": ["高钠食物"]
+      },
+      "dietary_restrictions": ["低钠饮食", "控制盐分摄入"],
+      "lifestyle_habits": {
+        "preference": "汤汤水水",
+        "cooking_method": "慢炖类食物"
+      },
+      "cuisine_preference": "徽菜"
+    },
+    {
+      "id": 20,
+      "name": "江奶奶",
+      "age": 68,
+      "gender": "女",
+      "location": {
+        "city": "太原",
+        "district": "小店区"
+      },
+      "health_conditions": ["轻度贫血"],
+      "taste_preferences": {
+        "flavor": "酸甜",
+        "favorite_foods": ["晋菜", "面食", "各种面条"],
+        "dislikes": ["过于油腻食物"]
+      },
+      "dietary_restrictions": ["需要补血食物", "多吃红枣桂圆"],
+      "lifestyle_habits": {
+        "staple_preference": "各种面条",
+        "seasoning_preference": "对醋有特殊偏好"
+      },
+      "cuisine_preference": "晋菜"
+    }
+  ]

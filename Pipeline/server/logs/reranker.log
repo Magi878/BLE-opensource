@@ -1,0 +1,33 @@
+INFO:     Started server process [1523223]
+INFO:     Waiting for application startup.
+ERROR:    Traceback (most recent call last):
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/transformers/utils/hub.py", line 403, in cached_file
+    resolved_file = hf_hub_download(
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/huggingface_hub/utils/_validators.py", line 106, in _inner_fn
+    validate_repo_id(arg_value)
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/huggingface_hub/utils/_validators.py", line 154, in validate_repo_id
+    raise HFValidationError(
+huggingface_hub.errors.HFValidationError: Repo id must be in the form 'repo_name' or 'namespace/repo_name': '/data/ganshushen/Projects/BLE_CODE_OPEN/BGEReranker'. Use `repo_type` argument if needed.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/starlette/routing.py", line 693, in lifespan
+    async with self.lifespan_context(app) as maybe_state:
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/starlette/routing.py", line 569, in __aenter__
+    await self._router.startup()
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/starlette/routing.py", line 672, in startup
+    handler()
+  File "/data/ganshushen/Projects/BLE_CODE_OPEN/Pipeline/server/reranker_service.py", line 30, in load_model
+    global_model = FlagReranker(model_path, use_fp16=False, devices=device)
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/FlagEmbedding/inference/reranker/encoder_only/base.py", line 66, in __init__
+    self.tokenizer = AutoTokenizer.from_pretrained(
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/transformers/models/auto/tokenization_auto.py", line 857, in from_pretrained
+    tokenizer_config = get_tokenizer_config(pretrained_model_name_or_path, **kwargs)
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/transformers/models/auto/tokenization_auto.py", line 689, in get_tokenizer_config
+    resolved_config_file = cached_file(
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/transformers/utils/hub.py", line 469, in cached_file
+    raise EnvironmentError(
+OSError: Incorrect path_or_model_id: '/data/ganshushen/Projects/BLE_CODE_OPEN/BGEReranker'. Please provide either the path to a local folder or the repo_id of a model on the Hub.
+
+ERROR:    Application startup failed. Exiting.

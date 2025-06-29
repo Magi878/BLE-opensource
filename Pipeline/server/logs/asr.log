@@ -1,0 +1,49 @@
+funasr version: 1.2.6.
+Check update of funasr, and it would cost few times. You may disable it by set `disable_update=True` in AutoModel
+You are using the latest version of funasr-1.2.6
+Download: model/ASR_Paraformer/weight failed!: Invalid repo_id: model, must be of format namespace/name
+Traceback (most recent call last):
+  File "/data/ganshushen/miniconda3/envs/BLE/bin/uvicorn", line 8, in <module>
+    sys.exit(main())
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/click/core.py", line 1161, in __call__
+    return self.main(*args, **kwargs)
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/click/core.py", line 1082, in main
+    rv = self.invoke(ctx)
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/click/core.py", line 1443, in invoke
+    return ctx.invoke(self.callback, **ctx.params)
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/click/core.py", line 788, in invoke
+    return __callback(*args, **kwargs)
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/uvicorn/main.py", line 412, in main
+    run(
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/uvicorn/main.py", line 579, in run
+    server.run()
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/uvicorn/server.py", line 65, in run
+    return asyncio.run(self.serve(sockets=sockets))
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "uvloop/loop.pyx", line 1518, in uvloop.loop.Loop.run_until_complete
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/uvicorn/server.py", line 69, in serve
+    await self._serve(sockets)
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/uvicorn/server.py", line 76, in _serve
+    config.load()
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/uvicorn/config.py", line 434, in load
+    self.loaded_app = import_from_string(self.app)
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/uvicorn/importer.py", line 19, in import_from_string
+    module = importlib.import_module(module_str)
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/data/ganshushen/Projects/BLE_CODE_OPEN/Pipeline/server/asr_server.py", line 19, in <module>
+    asr_infer = ASRInference(model_name_or_path=model_path, modes=None, output_dir=asr_output)
+  File "/data/ganshushen/Projects/BLE_CODE_OPEN/Pipeline/server/inference.py", line 16, in __init__
+    self.model = AutoModel(model=model_name_or_path, device="cuda:0")
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/funasr/auto/auto_model.py", line 125, in __init__
+    model, kwargs = self.build_model(**kwargs)
+  File "/data/ganshushen/miniconda3/envs/BLE/lib/python3.8/site-packages/funasr/auto/auto_model.py", line 261, in build_model
+    assert model_class is not None, f'{kwargs["model"]} is not registered'
+AssertionError: model/ASR_Paraformer/weight is not registered

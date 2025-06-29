@@ -1,0 +1,1000 @@
+{"id": 1, "name": "用户1", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["高血压", "便秘", "肥胖"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 2, "name": "用户2", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肥胖", "关节炎", "高血压"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 3, "name": "用户3", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["高血压"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 4, "name": "用户4", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["高血糖", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["筋道"]}
+{"id": 5, "name": "用户5", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["肥胖"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 6, "name": "用户6", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 7, "name": "用户7", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["糖尿病", "胃病", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 8, "name": "用户8", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["糖尿病", "便秘"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 9, "name": "用户9", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["肥胖", "糖尿病", "高血压"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 10, "name": "用户10", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["糖尿病", "高血脂"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 11, "name": "用户11", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["肾病", "胃病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 12, "name": "用户12", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["关节炎", "高血脂", "肥胖"], "taste_preferences": ["清淡"], "texture_preferences": ["温热"]}
+{"id": 13, "name": "用户13", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 14, "name": "用户14", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 15, "name": "用户15", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 16, "name": "用户16", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肥胖", "肾病", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["筋道"]}
+{"id": 17, "name": "用户17", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["肥胖", "关节炎", "高血压"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 18, "name": "用户18", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血压", "糖尿病", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 19, "name": "用户19", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肾病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["易咀嚼"]}
+{"id": 20, "name": "用户20", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["肾病", "高血压", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 21, "name": "用户21", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["高血脂", "肥胖", "肾病"], "taste_preferences": ["鲜"], "texture_preferences": ["顺滑"]}
+{"id": 22, "name": "用户22", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["胃病", "便秘"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 23, "name": "用户23", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 24, "name": "用户24", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 25, "name": "用户25", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 26, "name": "用户26", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血压", "高血脂", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["常温"]}
+{"id": 27, "name": "用户27", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["肾病", "高血脂", "高血糖"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 28, "name": "用户28", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肥胖", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 29, "name": "用户29", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 30, "name": "用户30", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 31, "name": "用户31", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肥胖", "胃病", "便秘"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 32, "name": "用户32", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血糖", "关节炎", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["常温"]}
+{"id": 33, "name": "用户33", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["关节炎", "胃病", "肥胖"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 34, "name": "用户34", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肥胖", "高血脂", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 35, "name": "用户35", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["关节炎", "高血压", "肾病"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 36, "name": "用户36", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["关节炎", "胃病", "肥胖"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 37, "name": "用户37", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["胃病"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 38, "name": "用户38", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["筋道"]}
+{"id": 39, "name": "用户39", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["肾病", "关节炎", "肥胖"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 40, "name": "用户40", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肥胖", "关节炎", "便秘"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 41, "name": "用户41", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["高血脂", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 42, "name": "用户42", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 43, "name": "用户43", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 44, "name": "用户44", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 45, "name": "用户45", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["高血压", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 46, "name": "用户46", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["肾病", "糖尿病", "高血压"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 47, "name": "用户47", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["高血脂", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["易咀嚼"]}
+{"id": 48, "name": "用户48", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["关节炎", "高血脂", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 49, "name": "用户49", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["肥胖", "高血脂", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 50, "name": "用户50", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 51, "name": "用户51", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 52, "name": "用户52", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["胃病", "高血脂", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 53, "name": "用户53", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 54, "name": "用户54", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["糖尿病", "高血脂", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["顺滑"]}
+{"id": 55, "name": "用户55", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["高血压", "肾病", "糖尿病"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 56, "name": "用户56", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 57, "name": "用户57", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["高血糖", "胃病", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["酥脆"]}
+{"id": 58, "name": "用户58", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血脂", "便秘", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 59, "name": "用户59", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["Q弹"]}
+{"id": 60, "name": "用户60", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 61, "name": "用户61", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["高血脂", "高血糖", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["清凉"]}
+{"id": 62, "name": "用户62", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["便秘", "肾病", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 63, "name": "用户63", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["糖尿病", "胃病", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 64, "name": "用户64", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 65, "name": "用户65", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 66, "name": "用户66", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["肥胖", "高血糖", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 67, "name": "用户67", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["关节炎", "糖尿病", "高血糖"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 68, "name": "用户68", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["酥脆"]}
+{"id": 69, "name": "用户69", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["高血压", "糖尿病"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 70, "name": "用户70", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["关节炎", "高血脂", "肾病"], "taste_preferences": ["辣"], "texture_preferences": ["常温"]}
+{"id": 71, "name": "用户71", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 72, "name": "用户72", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血脂", "便秘"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 73, "name": "用户73", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["糖尿病", "便秘"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 74, "name": "用户74", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 75, "name": "用户75", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 76, "name": "用户76", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["高血压", "胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 77, "name": "用户77", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["关节炎", "肾病", "肥胖"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 78, "name": "用户78", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 79, "name": "用户79", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["高血脂", "关节炎", "肥胖"], "taste_preferences": ["鲜"], "texture_preferences": ["常温"]}
+{"id": 80, "name": "用户80", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肥胖", "高血压", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 81, "name": "用户81", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["高血脂", "高血糖", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 82, "name": "用户82", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["胃病", "高血脂", "便秘"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 83, "name": "用户83", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 84, "name": "用户84", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血压", "关节炎", "糖尿病"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 85, "name": "用户85", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 86, "name": "用户86", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["肥胖", "糖尿病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 87, "name": "用户87", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 88, "name": "用户88", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 89, "name": "用户89", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肥胖", "肾病", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 90, "name": "用户90", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 91, "name": "用户91", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 92, "name": "用户92", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["高血压", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 93, "name": "用户93", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["便秘", "肾病", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 94, "name": "用户94", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 95, "name": "用户95", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肥胖", "高血压"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 96, "name": "用户96", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["常温"]}
+{"id": 97, "name": "用户97", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["胃病", "肾病", "肥胖"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 98, "name": "用户98", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["关节炎", "肥胖", "糖尿病"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 99, "name": "用户99", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肥胖", "高血脂", "高血压"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 100, "name": "用户100", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肾病", "高血糖", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 101, "name": "用户101", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 102, "name": "用户102", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["胃病", "高血压", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 103, "name": "用户103", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["便秘", "高血糖", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 104, "name": "用户104", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["高血糖", "高血压", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 105, "name": "用户105", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 106, "name": "用户106", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肥胖", "糖尿病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 107, "name": "用户107", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["高血压", "糖尿病", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 108, "name": "用户108", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["肾病", "高血糖", "肥胖"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 109, "name": "用户109", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["肾病", "高血糖", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 110, "name": "用户110", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["关节炎", "胃病", "高血压"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 111, "name": "用户111", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["糖尿病"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 112, "name": "用户112", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["便秘", "关节炎", "肥胖"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 113, "name": "用户113", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["胃病", "高血糖", "高血脂"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 114, "name": "用户114", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血脂", "肾病", "高血糖"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 115, "name": "用户115", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 116, "name": "用户116", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血压", "糖尿病", "高血糖"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 117, "name": "用户117", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["糖尿病", "高血压", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 118, "name": "用户118", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["胃病", "高血糖", "肾病"], "taste_preferences": ["鲜"], "texture_preferences": ["常温"]}
+{"id": 119, "name": "用户119", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["糖尿病", "胃病", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["易咀嚼"]}
+{"id": 120, "name": "用户120", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["关节炎", "肥胖", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 121, "name": "用户121", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肥胖", "便秘", "肾病"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 122, "name": "用户122", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血脂", "关节炎", "高血压"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 123, "name": "用户123", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["高血压", "高血脂"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 124, "name": "用户124", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["胃病", "关节炎", "便秘"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 125, "name": "用户125", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["高血压", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 126, "name": "用户126", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["糖尿病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 127, "name": "用户127", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["高血脂", "胃病", "糖尿病"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 128, "name": "用户128", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["糖尿病", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 129, "name": "用户129", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["高血糖", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 130, "name": "用户130", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 131, "name": "用户131", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["关节炎", "肥胖", "高血糖"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 132, "name": "用户132", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 133, "name": "用户133", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["便秘", "关节炎", "肾病"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 134, "name": "用户134", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 135, "name": "用户135", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 136, "name": "用户136", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["易咀嚼"]}
+{"id": 137, "name": "用户137", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 138, "name": "用户138", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血压", "高血脂", "肥胖"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 139, "name": "用户139", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["高血压", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 140, "name": "用户140", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["胃病", "高血脂", "高血糖"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 141, "name": "用户141", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 142, "name": "用户142", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["关节炎", "胃病", "高血糖"], "taste_preferences": ["辣"], "texture_preferences": ["常温"]}
+{"id": 143, "name": "用户143", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血脂", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 144, "name": "用户144", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肾病", "胃病", "肥胖"], "taste_preferences": ["鲜"], "texture_preferences": ["Q弹"]}
+{"id": 145, "name": "用户145", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血压", "高血糖", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 146, "name": "用户146", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["肥胖", "糖尿病"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 147, "name": "用户147", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肥胖", "胃病", "便秘"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 148, "name": "用户148", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["肾病", "高血糖", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 149, "name": "用户149", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 150, "name": "用户150", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血压", "肾病", "高血糖"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 151, "name": "用户151", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["高血糖", "肥胖", "高血压"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 152, "name": "用户152", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肥胖"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 153, "name": "用户153", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["高血压"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 154, "name": "用户154", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["关节炎", "肥胖", "肾病"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 155, "name": "用户155", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["关节炎", "便秘", "肥胖"], "taste_preferences": ["清淡"], "texture_preferences": ["清凉"]}
+{"id": 156, "name": "用户156", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血脂", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 157, "name": "用户157", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 158, "name": "用户158", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["糖尿病", "高血脂", "肾病"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 159, "name": "用户159", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["温热"]}
+{"id": 160, "name": "用户160", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 161, "name": "用户161", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["筋道"]}
+{"id": 162, "name": "用户162", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 163, "name": "用户163", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["高血脂", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 164, "name": "用户164", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["便秘", "肥胖", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 165, "name": "用户165", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["高血脂", "高血糖", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 166, "name": "用户166", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 167, "name": "用户167", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肥胖", "胃病", "便秘"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 168, "name": "用户168", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血糖", "胃病", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 169, "name": "用户169", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["胃病", "肾病", "肥胖"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 170, "name": "用户170", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["糖尿病", "胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 171, "name": "用户171", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["易咀嚼"]}
+{"id": 172, "name": "用户172", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 173, "name": "用户173", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血压", "肥胖", "高血脂"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 174, "name": "用户174", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 175, "name": "用户175", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["肥胖", "肾病"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 176, "name": "用户176", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["糖尿病"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 177, "name": "用户177", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 178, "name": "用户178", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 179, "name": "用户179", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肾病", "高血脂", "糖尿病"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 180, "name": "用户180", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肥胖", "高血糖", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 181, "name": "用户181", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["高血压", "高血糖", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 182, "name": "用户182", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 183, "name": "用户183", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 184, "name": "用户184", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肥胖", "高血压", "肾病"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 185, "name": "用户185", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 186, "name": "用户186", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肾病", "肥胖", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 187, "name": "用户187", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["便秘", "高血脂", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 188, "name": "用户188", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["糖尿病", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["清凉"]}
+{"id": 189, "name": "用户189", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["关节炎", "肥胖", "高血脂"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 190, "name": "用户190", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["糖尿病", "胃病", "便秘"], "taste_preferences": ["鲜"], "texture_preferences": ["顺滑"]}
+{"id": 191, "name": "用户191", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 192, "name": "用户192", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["肾病", "高血脂", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["Q弹"]}
+{"id": 193, "name": "用户193", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["高血糖", "糖尿病", "便秘"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 194, "name": "用户194", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["肥胖", "高血糖", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 195, "name": "用户195", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["易咀嚼"]}
+{"id": 196, "name": "用户196", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肾病", "高血脂", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["易咀嚼"]}
+{"id": 197, "name": "用户197", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["关节炎", "高血脂", "便秘"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 198, "name": "用户198", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["肥胖", "糖尿病", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 199, "name": "用户199", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["肾病", "高血脂", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 200, "name": "用户200", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["关节炎", "肥胖", "高血压"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 201, "name": "用户201", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["肥胖", "高血压", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 202, "name": "用户202", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 203, "name": "用户203", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 204, "name": "用户204", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["酥脆"]}
+{"id": 205, "name": "用户205", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["高血压", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 206, "name": "用户206", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["高血压", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 207, "name": "用户207", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["高血糖", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 208, "name": "用户208", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "高血脂", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 209, "name": "用户209", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 210, "name": "用户210", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肥胖", "肾病", "高血压"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 211, "name": "用户211", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "胃病", "便秘"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 212, "name": "用户212", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["高血脂", "糖尿病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 213, "name": "用户213", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["关节炎", "便秘"], "taste_preferences": ["清淡"], "texture_preferences": ["温热"]}
+{"id": 214, "name": "用户214", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["高血糖", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 215, "name": "用户215", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["高血糖", "肥胖", "高血脂"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 216, "name": "用户216", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血压", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 217, "name": "用户217", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 218, "name": "用户218", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 219, "name": "用户219", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肾病", "高血脂", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["清凉"]}
+{"id": 220, "name": "用户220", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["肥胖", "关节炎", "便秘"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 221, "name": "用户221", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["胃病", "肥胖", "高血压"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 222, "name": "用户222", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血脂", "关节炎", "肾病"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 223, "name": "用户223", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 224, "name": "用户224", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["胃病", "便秘"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 225, "name": "用户225", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血脂", "胃病", "肥胖"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 226, "name": "用户226", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["糖尿病", "关节炎", "肾病"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 227, "name": "用户227", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["胃病", "糖尿病", "高血压"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 228, "name": "用户228", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 229, "name": "用户229", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 230, "name": "用户230", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肥胖", "高血脂", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["温热"]}
+{"id": 231, "name": "用户231", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 232, "name": "用户232", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肾病", "肥胖", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 233, "name": "用户233", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["高血糖", "便秘", "高血压"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 234, "name": "用户234", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 235, "name": "用户235", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["高血压", "高血脂", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 236, "name": "用户236", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 237, "name": "用户237", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["高血压", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 238, "name": "用户238", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["胃病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 239, "name": "用户239", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["胃病", "关节炎", "糖尿病"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 240, "name": "用户240", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "胃病", "高血压"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 241, "name": "用户241", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["胃病", "肥胖", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 242, "name": "用户242", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 243, "name": "用户243", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 244, "name": "用户244", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血脂", "糖尿病", "肥胖"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 245, "name": "用户245", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["胃病", "糖尿病", "高血脂"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 246, "name": "用户246", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 247, "name": "用户247", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 248, "name": "用户248", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 249, "name": "用户249", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["高血脂", "高血糖", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 250, "name": "用户250", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 251, "name": "用户251", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["关节炎", "高血压", "肥胖"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 252, "name": "用户252", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 253, "name": "用户253", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 254, "name": "用户254", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["关节炎", "便秘"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 255, "name": "用户255", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 256, "name": "用户256", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 257, "name": "用户257", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["胃病", "关节炎", "高血糖"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 258, "name": "用户258", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血糖", "高血压", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 259, "name": "用户259", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 260, "name": "用户260", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 261, "name": "用户261", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血压", "高血脂", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 262, "name": "用户262", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["温热"]}
+{"id": 263, "name": "用户263", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血脂", "高血糖", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["筋道"]}
+{"id": 264, "name": "用户264", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肥胖", "高血压", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 265, "name": "用户265", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["肥胖", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 266, "name": "用户266", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 267, "name": "用户267", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 268, "name": "用户268", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["肥胖", "高血压", "肾病"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 269, "name": "用户269", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肾病", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 270, "name": "用户270", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 271, "name": "用户271", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 272, "name": "用户272", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["温热"]}
+{"id": 273, "name": "用户273", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["胃病", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 274, "name": "用户274", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 275, "name": "用户275", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["胃病", "高血压", "肥胖"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 276, "name": "用户276", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["糖尿病", "胃病", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 277, "name": "用户277", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["关节炎", "肾病", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["筋道"]}
+{"id": 278, "name": "用户278", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 279, "name": "用户279", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["关节炎", "高血脂", "高血压"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 280, "name": "用户280", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 281, "name": "用户281", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 282, "name": "用户282", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血压", "肾病", "高血糖"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 283, "name": "用户283", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["胃病", "关节炎", "高血压"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 284, "name": "用户284", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 285, "name": "用户285", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 286, "name": "用户286", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["胃病", "肾病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 287, "name": "用户287", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["胃病", "肾病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["常温"]}
+{"id": 288, "name": "用户288", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 289, "name": "用户289", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["便秘", "高血脂", "肾病"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 290, "name": "用户290", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["关节炎", "便秘"], "taste_preferences": ["苦"], "texture_preferences": ["筋道"]}
+{"id": 291, "name": "用户291", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["高血脂", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 292, "name": "用户292", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["筋道"]}
+{"id": 293, "name": "用户293", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["关节炎", "糖尿病", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 294, "name": "用户294", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 295, "name": "用户295", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肥胖", "糖尿病"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 296, "name": "用户296", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["肥胖", "高血压", "便秘"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 297, "name": "用户297", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["肥胖", "高血压", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 298, "name": "用户298", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 299, "name": "用户299", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["肥胖", "糖尿病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 300, "name": "用户300", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肥胖", "高血脂"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 301, "name": "用户301", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["高血压", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 302, "name": "用户302", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["胃病", "高血糖", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["清凉"]}
+{"id": 303, "name": "用户303", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 304, "name": "用户304", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["糖尿病", "高血脂"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 305, "name": "用户305", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["肥胖", "糖尿病", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 306, "name": "用户306", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["胃病", "高血脂", "糖尿病"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 307, "name": "用户307", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血压", "糖尿病", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 308, "name": "用户308", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["肾病", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["筋道"]}
+{"id": 309, "name": "用户309", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["肾病", "高血脂", "高血糖"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 310, "name": "用户310", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血脂", "关节炎", "高血压"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 311, "name": "用户311", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 312, "name": "用户312", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["肥胖", "高血压"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 313, "name": "用户313", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 314, "name": "用户314", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["高血压", "糖尿病", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 315, "name": "用户315", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血脂", "胃病", "高血压"], "taste_preferences": ["苦"], "texture_preferences": ["筋道"]}
+{"id": 316, "name": "用户316", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 317, "name": "用户317", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肾病", "糖尿病", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 318, "name": "用户318", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 319, "name": "用户319", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["高血脂", "高血糖", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 320, "name": "用户320", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 321, "name": "用户321", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["糖尿病", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["顺滑"]}
+{"id": 322, "name": "用户322", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["肥胖", "高血糖", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 323, "name": "用户323", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 324, "name": "用户324", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血糖", "胃病", "肾病"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 325, "name": "用户325", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["胃病", "高血脂", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 326, "name": "用户326", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 327, "name": "用户327", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["高血糖", "高血脂", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 328, "name": "用户328", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 329, "name": "用户329", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["关节炎", "高血压", "便秘"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 330, "name": "用户330", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 331, "name": "用户331", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 332, "name": "用户332", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["肾病", "胃病", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 333, "name": "用户333", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["便秘", "关节炎", "高血压"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 334, "name": "用户334", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["糖尿病", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 335, "name": "用户335", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["肥胖", "高血脂"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 336, "name": "用户336", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["胃病", "肾病", "高血脂"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 337, "name": "用户337", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["高血压", "胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 338, "name": "用户338", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 339, "name": "用户339", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肾病", "高血脂"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 340, "name": "用户340", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血糖", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 341, "name": "用户341", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["筋道"]}
+{"id": 342, "name": "用户342", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肾病", "高血糖", "高血压"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 343, "name": "用户343", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["高血糖", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 344, "name": "用户344", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 345, "name": "用户345", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["胃病"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 346, "name": "用户346", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["胃病", "肥胖", "肾病"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 347, "name": "用户347", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 348, "name": "用户348", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["肥胖", "高血糖"], "taste_preferences": ["辣"], "texture_preferences": ["常温"]}
+{"id": 349, "name": "用户349", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 350, "name": "用户350", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["糖尿病"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 351, "name": "用户351", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血压", "高血糖", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 352, "name": "用户352", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["关节炎", "高血脂", "肾病"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 353, "name": "用户353", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["糖尿病", "胃病", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 354, "name": "用户354", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肥胖", "糖尿病", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 355, "name": "用户355", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["胃病", "关节炎", "便秘"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 356, "name": "用户356", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 357, "name": "用户357", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肾病", "高血糖", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 358, "name": "用户358", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 359, "name": "用户359", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 360, "name": "用户360", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血压", "关节炎", "肾病"], "taste_preferences": ["甜"], "texture_preferences": ["清凉"]}
+{"id": 361, "name": "用户361", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 362, "name": "用户362", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["肥胖", "高血压"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 363, "name": "用户363", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["高血脂", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 364, "name": "用户364", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 365, "name": "用户365", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 366, "name": "用户366", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["肾病", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 367, "name": "用户367", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 368, "name": "用户368", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血脂", "肾病", "高血糖"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 369, "name": "用户369", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肥胖", "高血脂", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 370, "name": "用户370", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["糖尿病", "高血脂", "肥胖"], "taste_preferences": ["苦"], "texture_preferences": ["易咀嚼"]}
+{"id": 371, "name": "用户371", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血脂", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 372, "name": "用户372", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["肾病", "肥胖", "高血糖"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 373, "name": "用户373", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["肥胖", "便秘", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 374, "name": "用户374", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["胃病", "高血压", "高血脂"], "taste_preferences": ["鲜"], "texture_preferences": ["Q弹"]}
+{"id": 375, "name": "用户375", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 376, "name": "用户376", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 377, "name": "用户377", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 378, "name": "用户378", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肥胖", "高血压", "便秘"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 379, "name": "用户379", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["糖尿病", "高血糖", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 380, "name": "用户380", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["高血脂", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 381, "name": "用户381", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["便秘", "高血糖", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 382, "name": "用户382", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["常温"]}
+{"id": 383, "name": "用户383", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 384, "name": "用户384", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 385, "name": "用户385", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 386, "name": "用户386", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 387, "name": "用户387", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["关节炎", "肥胖", "便秘"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 388, "name": "用户388", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 389, "name": "用户389", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["糖尿病", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 390, "name": "用户390", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["高血脂", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 391, "name": "用户391", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["肾病"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 392, "name": "用户392", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 393, "name": "用户393", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 394, "name": "用户394", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["胃病", "关节炎", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 395, "name": "用户395", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 396, "name": "用户396", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 397, "name": "用户397", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 398, "name": "用户398", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["高血压"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 399, "name": "用户399", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 400, "name": "用户400", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 401, "name": "用户401", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["糖尿病", "肾病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 402, "name": "用户402", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 403, "name": "用户403", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 404, "name": "用户404", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 405, "name": "用户405", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["糖尿病", "高血压", "高血脂"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 406, "name": "用户406", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["筋道"]}
+{"id": 407, "name": "用户407", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["肥胖", "高血压"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 408, "name": "用户408", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 409, "name": "用户409", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 410, "name": "用户410", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血脂", "胃病", "高血压"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 411, "name": "用户411", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["关节炎", "胃病", "高血糖"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 412, "name": "用户412", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["胃病"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 413, "name": "用户413", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["肥胖", "胃病", "便秘"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 414, "name": "用户414", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["便秘", "糖尿病", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 415, "name": "用户415", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["肾病", "高血脂", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 416, "name": "用户416", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 417, "name": "用户417", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["肥胖", "高血糖", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 418, "name": "用户418", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 419, "name": "用户419", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["关节炎", "高血脂", "肥胖"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 420, "name": "用户420", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肥胖", "关节炎", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 421, "name": "用户421", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肾病", "高血脂", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 422, "name": "用户422", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["关节炎", "便秘", "肥胖"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 423, "name": "用户423", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["高血压", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 424, "name": "用户424", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["高血压", "肥胖", "肾病"], "taste_preferences": ["清淡"], "texture_preferences": ["清凉"]}
+{"id": 425, "name": "用户425", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["糖尿病", "高血脂"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 426, "name": "用户426", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["高血脂", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 427, "name": "用户427", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["肥胖", "高血糖", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 428, "name": "用户428", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 429, "name": "用户429", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 430, "name": "用户430", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["糖尿病", "高血糖"], "taste_preferences": ["苦"], "texture_preferences": ["易咀嚼"]}
+{"id": 431, "name": "用户431", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["糖尿病", "高血脂", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 432, "name": "用户432", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 433, "name": "用户433", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 434, "name": "用户434", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["关节炎", "糖尿病", "高血压"], "taste_preferences": ["辣"], "texture_preferences": ["常温"]}
+{"id": 435, "name": "用户435", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["胃病", "高血脂", "肾病"], "taste_preferences": ["酸"], "texture_preferences": ["筋道"]}
+{"id": 436, "name": "用户436", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 437, "name": "用户437", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 438, "name": "用户438", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["高血脂", "高血糖", "肾病"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 439, "name": "用户439", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["高血压", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 440, "name": "用户440", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["高血糖", "糖尿病", "高血压"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 441, "name": "用户441", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 442, "name": "用户442", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 443, "name": "用户443", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血压", "糖尿病", "肾病"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 444, "name": "用户444", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 445, "name": "用户445", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 446, "name": "用户446", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 447, "name": "用户447", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肥胖", "便秘", "高血脂"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 448, "name": "用户448", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["高血脂", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 449, "name": "用户449", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["便秘", "胃病", "肥胖"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 450, "name": "用户450", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肥胖", "糖尿病", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 451, "name": "用户451", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["关节炎", "便秘", "高血脂"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 452, "name": "用户452", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["高血糖", "肾病", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 453, "name": "用户453", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肾病", "高血糖", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 454, "name": "用户454", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 455, "name": "用户455", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["关节炎", "糖尿病", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["筋道"]}
+{"id": 456, "name": "用户456", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肥胖", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 457, "name": "用户457", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肥胖", "高血压", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 458, "name": "用户458", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["糖尿病", "关节炎", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 459, "name": "用户459", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 460, "name": "用户460", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["高血压", "胃病", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["易咀嚼"]}
+{"id": 461, "name": "用户461", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 462, "name": "用户462", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 463, "name": "用户463", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肥胖", "肾病", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 464, "name": "用户464", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肥胖", "肾病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 465, "name": "用户465", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血脂", "肾病", "便秘"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 466, "name": "用户466", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血脂", "高血糖", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 467, "name": "用户467", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 468, "name": "用户468", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["糖尿病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 469, "name": "用户469", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["肥胖", "肾病", "高血糖"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 470, "name": "用户470", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["肥胖", "肾病"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 471, "name": "用户471", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 472, "name": "用户472", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 473, "name": "用户473", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肾病", "高血脂", "便秘"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 474, "name": "用户474", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["糖尿病", "胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 475, "name": "用户475", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["糖尿病", "胃病", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 476, "name": "用户476", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 477, "name": "用户477", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["肥胖", "高血脂", "高血糖"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 478, "name": "用户478", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["高血压", "肥胖", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 479, "name": "用户479", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["糖尿病", "高血脂", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 480, "name": "用户480", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["高血压", "高血脂", "肥胖"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 481, "name": "用户481", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["关节炎", "肾病", "高血脂"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 482, "name": "用户482", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血糖", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 483, "name": "用户483", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 484, "name": "用户484", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 485, "name": "用户485", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["关节炎", "肾病", "高血压"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 486, "name": "用户486", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["糖尿病", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 487, "name": "用户487", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 488, "name": "用户488", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血脂", "高血糖", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["易咀嚼"]}
+{"id": 489, "name": "用户489", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 490, "name": "用户490", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 491, "name": "用户491", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["清凉"]}
+{"id": 492, "name": "用户492", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["常温"]}
+{"id": 493, "name": "用户493", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["关节炎", "肥胖", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 494, "name": "用户494", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 495, "name": "用户495", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血糖", "关节炎", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 496, "name": "用户496", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["高血压", "高血糖", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 497, "name": "用户497", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["关节炎", "肾病", "肥胖"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 498, "name": "用户498", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 499, "name": "用户499", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["胃病", "肥胖", "高血脂"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 500, "name": "用户500", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["糖尿病", "关节炎", "高血脂"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 501, "name": "用户501", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["关节炎", "胃病", "肥胖"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 502, "name": "用户502", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 503, "name": "用户503", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 504, "name": "用户504", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["关节炎", "肥胖", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 505, "name": "用户505", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["常温"]}
+{"id": 506, "name": "用户506", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["高血糖", "胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 507, "name": "用户507", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["糖尿病", "胃病", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 508, "name": "用户508", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血压", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["筋道"]}
+{"id": 509, "name": "用户509", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 510, "name": "用户510", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 511, "name": "用户511", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血糖", "胃病", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 512, "name": "用户512", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["糖尿病", "肥胖", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 513, "name": "用户513", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["肥胖", "关节炎", "高血压"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 514, "name": "用户514", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["顺滑"]}
+{"id": 515, "name": "用户515", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肾病", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 516, "name": "用户516", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["高血脂", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 517, "name": "用户517", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 518, "name": "用户518", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 519, "name": "用户519", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["Q弹"]}
+{"id": 520, "name": "用户520", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["关节炎", "胃病", "高血脂"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 521, "name": "用户521", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["糖尿病", "便秘"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 522, "name": "用户522", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 523, "name": "用户523", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["胃病", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 524, "name": "用户524", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["胃病", "便秘", "肥胖"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 525, "name": "用户525", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["胃病", "肥胖", "肾病"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 526, "name": "用户526", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肥胖", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 527, "name": "用户527", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["高血脂", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 528, "name": "用户528", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 529, "name": "用户529", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 530, "name": "用户530", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["关节炎", "胃病", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 531, "name": "用户531", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["高血脂", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["清凉"]}
+{"id": 532, "name": "用户532", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血糖", "关节炎", "高血压"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 533, "name": "用户533", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肥胖", "高血脂", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 534, "name": "用户534", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 535, "name": "用户535", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["高血压", "高血脂", "糖尿病"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 536, "name": "用户536", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["高血压", "糖尿病", "便秘"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 537, "name": "用户537", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["关节炎", "高血脂", "肥胖"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 538, "name": "用户538", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["筋道"]}
+{"id": 539, "name": "用户539", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 540, "name": "用户540", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血糖", "胃病", "肾病"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 541, "name": "用户541", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肥胖", "便秘"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 542, "name": "用户542", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["高血压", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["清凉"]}
+{"id": 543, "name": "用户543", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["糖尿病", "高血脂", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 544, "name": "用户544", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 545, "name": "用户545", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肾病", "胃病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 546, "name": "用户546", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 547, "name": "用户547", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 548, "name": "用户548", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["高血糖", "关节炎", "肥胖"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 549, "name": "用户549", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 550, "name": "用户550", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血脂", "高血糖", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 551, "name": "用户551", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["高血脂", "关节炎", "便秘"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 552, "name": "用户552", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["肥胖", "高血糖", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 553, "name": "用户553", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["胃病", "关节炎", "高血糖"], "taste_preferences": ["鲜"], "texture_preferences": ["Q弹"]}
+{"id": 554, "name": "用户554", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["胃病", "关节炎", "肥胖"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 555, "name": "用户555", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["胃病", "关节炎", "肾病"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 556, "name": "用户556", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["肥胖", "高血脂", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 557, "name": "用户557", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["肾病", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["清凉"]}
+{"id": 558, "name": "用户558", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血压", "便秘", "高血糖"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 559, "name": "用户559", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 560, "name": "用户560", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["糖尿病", "高血脂", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 561, "name": "用户561", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 562, "name": "用户562", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["糖尿病", "高血脂", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["清凉"]}
+{"id": 563, "name": "用户563", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["高血脂"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 564, "name": "用户564", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 565, "name": "用户565", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["肥胖", "高血糖"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 566, "name": "用户566", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["高血脂", "糖尿病", "肾病"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 567, "name": "用户567", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 568, "name": "用户568", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 569, "name": "用户569", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 570, "name": "用户570", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 571, "name": "用户571", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["关节炎", "肾病", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 572, "name": "用户572", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["胃病", "关节炎", "高血糖"], "taste_preferences": ["辣"], "texture_preferences": ["常温"]}
+{"id": 573, "name": "用户573", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["胃病", "肥胖", "高血压"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 574, "name": "用户574", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["肾病", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 575, "name": "用户575", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["常温"]}
+{"id": 576, "name": "用户576", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血糖", "关节炎", "肥胖"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 577, "name": "用户577", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肥胖", "高血压"], "taste_preferences": ["辣"], "texture_preferences": ["易咀嚼"]}
+{"id": 578, "name": "用户578", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 579, "name": "用户579", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["肾病", "关节炎", "高血脂"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 580, "name": "用户580", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 581, "name": "用户581", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["酥脆"]}
+{"id": 582, "name": "用户582", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肥胖", "关节炎", "高血脂"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 583, "name": "用户583", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 584, "name": "用户584", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 585, "name": "用户585", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["高血压", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 586, "name": "用户586", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血糖", "肥胖", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 587, "name": "用户587", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["胃病", "便秘", "高血压"], "taste_preferences": ["苦"], "texture_preferences": ["筋道"]}
+{"id": 588, "name": "用户588", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["便秘", "高血压", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 589, "name": "用户589", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["胃病", "高血脂", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 590, "name": "用户590", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["胃病", "关节炎", "肥胖"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 591, "name": "用户591", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 592, "name": "用户592", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 593, "name": "用户593", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血压", "肾病", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 594, "name": "用户594", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 595, "name": "用户595", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 596, "name": "用户596", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["温热"]}
+{"id": 597, "name": "用户597", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["胃病"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 598, "name": "用户598", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["糖尿病", "高血脂", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["筋道"]}
+{"id": 599, "name": "用户599", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["糖尿病", "肥胖", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 600, "name": "用户600", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 601, "name": "用户601", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 602, "name": "用户602", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["糖尿病", "高血脂", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 603, "name": "用户603", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肥胖", "高血压", "肾病"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 604, "name": "用户604", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["胃病", "关节炎", "肾病"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 605, "name": "用户605", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["肾病", "关节炎", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 606, "name": "用户606", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["胃病", "高血糖", "糖尿病"], "taste_preferences": ["苦"], "texture_preferences": ["易咀嚼"]}
+{"id": 607, "name": "用户607", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["肾病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 608, "name": "用户608", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["高血压", "高血脂", "糖尿病"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 609, "name": "用户609", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 610, "name": "用户610", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["高血糖", "胃病", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 611, "name": "用户611", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 612, "name": "用户612", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["高血压", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 613, "name": "用户613", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["关节炎", "糖尿病", "肾病"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 614, "name": "用户614", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["肥胖", "糖尿病", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 615, "name": "用户615", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血压", "高血糖", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 616, "name": "用户616", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 617, "name": "用户617", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["关节炎", "高血脂", "肥胖"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 618, "name": "用户618", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["糖尿病", "关节炎", "高血脂"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 619, "name": "用户619", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 620, "name": "用户620", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血脂", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 621, "name": "用户621", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["肥胖", "高血压", "糖尿病"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 622, "name": "用户622", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["肾病", "高血糖", "高血脂"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 623, "name": "用户623", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血压", "糖尿病", "便秘"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 624, "name": "用户624", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["糖尿病", "高血压", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 625, "name": "用户625", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血糖", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 626, "name": "用户626", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 627, "name": "用户627", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 628, "name": "用户628", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["常温"]}
+{"id": 629, "name": "用户629", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 630, "name": "用户630", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["便秘", "关节炎", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 631, "name": "用户631", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["胃病", "肥胖", "高血脂"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 632, "name": "用户632", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 633, "name": "用户633", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["肥胖", "高血脂", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 634, "name": "用户634", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["胃病", "便秘"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 635, "name": "用户635", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 636, "name": "用户636", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 637, "name": "用户637", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肥胖", "高血脂", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 638, "name": "用户638", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["肥胖"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 639, "name": "用户639", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肥胖", "高血脂", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 640, "name": "用户640", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["易咀嚼"]}
+{"id": 641, "name": "用户641", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["胃病", "高血压", "肥胖"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 642, "name": "用户642", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 643, "name": "用户643", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 644, "name": "用户644", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["高血糖", "胃病", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 645, "name": "用户645", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "胃病", "便秘"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 646, "name": "用户646", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["胃病", "高血脂", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 647, "name": "用户647", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["胃病", "便秘", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 648, "name": "用户648", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["便秘", "肾病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 649, "name": "用户649", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "高血压", "肾病"], "taste_preferences": ["鲜"], "texture_preferences": ["Q弹"]}
+{"id": 650, "name": "用户650", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 651, "name": "用户651", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["肥胖", "糖尿病", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["易咀嚼"]}
+{"id": 652, "name": "用户652", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["肥胖", "高血脂", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 653, "name": "用户653", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 654, "name": "用户654", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 655, "name": "用户655", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["肥胖", "高血脂", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 656, "name": "用户656", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["高血压", "关节炎", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 657, "name": "用户657", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血糖", "高血脂", "高血压"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 658, "name": "用户658", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["肾病", "胃病", "糖尿病"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 659, "name": "用户659", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肾病", "肥胖", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["顺滑"]}
+{"id": 660, "name": "用户660", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["糖尿病", "肾病", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 661, "name": "用户661", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肥胖", "高血压", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 662, "name": "用户662", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["便秘", "高血脂", "高血压"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 663, "name": "用户663", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["高血糖", "关节炎", "糖尿病"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 664, "name": "用户664", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["糖尿病", "肾病"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 665, "name": "用户665", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["易咀嚼"]}
+{"id": 666, "name": "用户666", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["高血糖", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 667, "name": "用户667", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 668, "name": "用户668", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 669, "name": "用户669", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肥胖", "高血糖", "糖尿病"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 670, "name": "用户670", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["肥胖", "高血糖", "便秘"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 671, "name": "用户671", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["关节炎", "胃病", "糖尿病"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 672, "name": "用户672", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["肾病", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["酥脆"]}
+{"id": 673, "name": "用户673", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血压", "高血脂", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 674, "name": "用户674", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 675, "name": "用户675", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["糖尿病", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 676, "name": "用户676", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["糖尿病", "胃病", "肥胖"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 677, "name": "用户677", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 678, "name": "用户678", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["清凉"]}
+{"id": 679, "name": "用户679", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 680, "name": "用户680", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["胃病", "高血糖", "便秘"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 681, "name": "用户681", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 682, "name": "用户682", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["关节炎", "高血糖", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 683, "name": "用户683", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 684, "name": "用户684", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 685, "name": "用户685", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 686, "name": "用户686", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["肥胖", "糖尿病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["顺滑"]}
+{"id": 687, "name": "用户687", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血脂", "肥胖", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 688, "name": "用户688", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["关节炎", "肥胖", "高血脂"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 689, "name": "用户689", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血脂", "便秘", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["Q弹"]}
+{"id": 690, "name": "用户690", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 691, "name": "用户691", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["肾病", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 692, "name": "用户692", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["关节炎", "高血脂", "糖尿病"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 693, "name": "用户693", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肥胖", "高血糖", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 694, "name": "用户694", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肾病"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 695, "name": "用户695", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 696, "name": "用户696", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["便秘", "高血压", "糖尿病"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 697, "name": "用户697", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["肥胖", "便秘", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 698, "name": "用户698", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["胃病", "关节炎", "高血压"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 699, "name": "用户699", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["肥胖", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["酥脆"]}
+{"id": 700, "name": "用户700", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["胃病", "高血压", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 701, "name": "用户701", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血脂", "关节炎", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 702, "name": "用户702", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 703, "name": "用户703", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 704, "name": "用户704", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 705, "name": "用户705", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["肾病", "高血糖", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 706, "name": "用户706", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 707, "name": "用户707", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["高血压", "高血糖", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 708, "name": "用户708", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血脂"], "taste_preferences": ["酸"], "texture_preferences": ["筋道"]}
+{"id": 709, "name": "用户709", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["糖尿病", "高血脂", "肥胖"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 710, "name": "用户710", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 711, "name": "用户711", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["高血脂", "关节炎", "便秘"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 712, "name": "用户712", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 713, "name": "用户713", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 714, "name": "用户714", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 715, "name": "用户715", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 716, "name": "用户716", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 717, "name": "用户717", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 718, "name": "用户718", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["糖尿病", "高血糖", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 719, "name": "用户719", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 720, "name": "用户720", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 721, "name": "用户721", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肾病", "高血脂", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["易咀嚼"]}
+{"id": 722, "name": "用户722", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血糖", "关节炎", "高血压"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 723, "name": "用户723", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "糖尿病", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 724, "name": "用户724", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血脂", "糖尿病", "高血压"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 725, "name": "用户725", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血压", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 726, "name": "用户726", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 727, "name": "用户727", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 728, "name": "用户728", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "高血压", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 729, "name": "用户729", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "关节炎", "便秘"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 730, "name": "用户730", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肥胖", "胃病", "高血糖"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 731, "name": "用户731", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血压", "糖尿病", "高血糖"], "taste_preferences": ["鲜"], "texture_preferences": ["常温"]}
+{"id": 732, "name": "用户732", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["高血糖", "糖尿病", "肾病"], "taste_preferences": ["辣"], "texture_preferences": ["易咀嚼"]}
+{"id": 733, "name": "用户733", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["关节炎", "糖尿病", "高血糖"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 734, "name": "用户734", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 735, "name": "用户735", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 736, "name": "用户736", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["高血糖", "肥胖", "高血压"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 737, "name": "用户737", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 738, "name": "用户738", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肥胖", "高血脂", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 739, "name": "用户739", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 740, "name": "用户740", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["肥胖", "高血压", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 741, "name": "用户741", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["高血糖", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["Q弹"]}
+{"id": 742, "name": "用户742", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肾病", "高血脂", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 743, "name": "用户743", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血糖", "关节炎", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 744, "name": "用户744", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["高血脂", "高血糖", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 745, "name": "用户745", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 746, "name": "用户746", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肥胖", "高血糖", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 747, "name": "用户747", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 748, "name": "用户748", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肥胖", "高血糖", "便秘"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 749, "name": "用户749", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 750, "name": "用户750", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["糖尿病", "关节炎", "便秘"], "taste_preferences": ["苦"], "texture_preferences": ["酥脆"]}
+{"id": 751, "name": "用户751", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 752, "name": "用户752", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["关节炎", "肥胖", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 753, "name": "用户753", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 754, "name": "用户754", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 755, "name": "用户755", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 756, "name": "用户756", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["肥胖", "高血压", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 757, "name": "用户757", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["糖尿病", "高血糖", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 758, "name": "用户758", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 759, "name": "用户759", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["肾病", "高血压", "肥胖"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 760, "name": "用户760", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["易咀嚼"]}
+{"id": 761, "name": "用户761", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["糖尿病", "肾病"], "taste_preferences": ["鲜"], "texture_preferences": ["顺滑"]}
+{"id": 762, "name": "用户762", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["高血脂", "高血压", "肥胖"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 763, "name": "用户763", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["糖尿病", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 764, "name": "用户764", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血糖", "肥胖", "高血脂"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 765, "name": "用户765", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 766, "name": "用户766", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["Q弹"]}
+{"id": 767, "name": "用户767", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 768, "name": "用户768", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血压", "糖尿病", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 769, "name": "用户769", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肾病", "高血脂", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 770, "name": "用户770", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["肥胖", "高血压", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 771, "name": "用户771", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 772, "name": "用户772", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 773, "name": "用户773", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 774, "name": "用户774", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血糖", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 775, "name": "用户775", "gender": "Male", "age_range": "80-90", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 776, "name": "用户776", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 777, "name": "用户777", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肥胖", "高血糖", "高血脂"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 778, "name": "用户778", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 779, "name": "用户779", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["高血压", "高血脂", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 780, "name": "用户780", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 781, "name": "用户781", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["胃病", "便秘", "高血脂"], "taste_preferences": ["酸"], "texture_preferences": ["筋道"]}
+{"id": 782, "name": "用户782", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["肥胖", "高血糖", "便秘"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 783, "name": "用户783", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 784, "name": "用户784", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血压", "高血糖", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 785, "name": "用户785", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["糖尿病", "高血脂", "高血糖"], "taste_preferences": ["清淡"], "texture_preferences": ["清凉"]}
+{"id": 786, "name": "用户786", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 787, "name": "用户787", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 788, "name": "用户788", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "关节炎", "高血脂"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 789, "name": "用户789", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 790, "name": "用户790", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["筋道"]}
+{"id": 791, "name": "用户791", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 792, "name": "用户792", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血糖", "关节炎", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 793, "name": "用户793", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["肥胖", "高血糖", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 794, "name": "用户794", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 795, "name": "用户795", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["高血脂", "胃病", "便秘"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 796, "name": "用户796", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 797, "name": "用户797", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["高血糖", "高血压", "肾病"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 798, "name": "用户798", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 799, "name": "用户799", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 800, "name": "用户800", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["关节炎", "肥胖", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 801, "name": "用户801", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["便秘", "关节炎", "高血糖"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 802, "name": "用户802", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 803, "name": "用户803", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 804, "name": "用户804", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血压", "糖尿病", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 805, "name": "用户805", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["关节炎", "胃病", "肾病"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 806, "name": "用户806", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 807, "name": "用户807", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["高血压", "高血脂", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 808, "name": "用户808", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 809, "name": "用户809", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["筋道"]}
+{"id": 810, "name": "用户810", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["肥胖", "高血糖", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 811, "name": "用户811", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 812, "name": "用户812", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["胃病", "高血糖", "高血脂"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 813, "name": "用户813", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血脂", "肥胖", "肾病"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 814, "name": "用户814", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["糖尿病", "高血压", "高血脂"], "taste_preferences": ["清淡"], "texture_preferences": ["温热"]}
+{"id": 815, "name": "用户815", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["胃病", "便秘", "高血糖"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 816, "name": "用户816", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["肥胖", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 817, "name": "用户817", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["肾病", "高血脂", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 818, "name": "用户818", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 819, "name": "用户819", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 820, "name": "用户820", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "糖尿病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 821, "name": "用户821", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["胃病", "肥胖", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 822, "name": "用户822", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["肾病", "关节炎", "高血糖"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 823, "name": "用户823", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["高血脂", "糖尿病", "肥胖"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 824, "name": "用户824", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["胃病", "高血压", "便秘"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 825, "name": "用户825", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["糖尿病", "胃病", "高血脂"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 826, "name": "用户826", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 827, "name": "用户827", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肥胖", "高血脂", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["清凉"]}
+{"id": 828, "name": "用户828", "gender": "Male", "age_range": "80-90", "region": "西北地区", "health_conditions": ["糖尿病", "肾病", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 829, "name": "用户829", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血压", "高血脂"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 830, "name": "用户830", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["高血压", "关节炎", "糖尿病"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 831, "name": "用户831", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血压", "胃病", "高血脂"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 832, "name": "用户832", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["关节炎", "胃病", "肥胖"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 833, "name": "用户833", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["筋道"]}
+{"id": 834, "name": "用户834", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 835, "name": "用户835", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 836, "name": "用户836", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["肾病", "关节炎", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 837, "name": "用户837", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["肥胖", "高血糖", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 838, "name": "用户838", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 839, "name": "用户839", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["高血糖", "胃病", "肥胖"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 840, "name": "用户840", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["温热"]}
+{"id": 841, "name": "用户841", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["酥脆"]}
+{"id": 842, "name": "用户842", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 843, "name": "用户843", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["便秘", "胃病", "肥胖"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 844, "name": "用户844", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肥胖", "肾病", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["Q弹"]}
+{"id": 845, "name": "用户845", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["胃病", "关节炎", "糖尿病"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 846, "name": "用户846", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["肥胖", "胃病", "便秘"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 847, "name": "用户847", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["肥胖", "高血脂", "肾病"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 848, "name": "用户848", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["高血压", "肥胖", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 849, "name": "用户849", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血脂", "高血糖", "高血压"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 850, "name": "用户850", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 851, "name": "用户851", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["胃病"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 852, "name": "用户852", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 853, "name": "用户853", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["高血压", "高血脂", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["清凉"]}
+{"id": 854, "name": "用户854", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["关节炎", "胃病", "肥胖"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 855, "name": "用户855", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 856, "name": "用户856", "gender": "Female", "age_range": "60-70", "region": "华东地区", "health_conditions": ["肾病", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 857, "name": "用户857", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 858, "name": "用户858", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 859, "name": "用户859", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 860, "name": "用户860", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["胃病", "糖尿病", "高血脂"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 861, "name": "用户861", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血压", "胃病"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 862, "name": "用户862", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["软烂"]}
+{"id": 863, "name": "用户863", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 864, "name": "用户864", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["肾病", "肥胖", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["温热"]}
+{"id": 865, "name": "用户865", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 866, "name": "用户866", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["肥胖", "高血脂", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["顺滑"]}
+{"id": 867, "name": "用户867", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 868, "name": "用户868", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["高血压"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 869, "name": "用户869", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肥胖", "高血脂", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 870, "name": "用户870", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血脂", "胃病", "便秘"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 871, "name": "用户871", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["糖尿病", "高血糖", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 872, "name": "用户872", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["便秘", "胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 873, "name": "用户873", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 874, "name": "用户874", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 875, "name": "用户875", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肾病", "高血脂", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 876, "name": "用户876", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肥胖", "高血压", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["温热"]}
+{"id": 877, "name": "用户877", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血糖", "关节炎", "肥胖"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 878, "name": "用户878", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 879, "name": "用户879", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["关节炎", "胃病", "肥胖"], "taste_preferences": ["甜"], "texture_preferences": ["清凉"]}
+{"id": 880, "name": "用户880", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 881, "name": "用户881", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["糖尿病", "高血脂", "肾病"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 882, "name": "用户882", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["高血糖", "关节炎", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 883, "name": "用户883", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 884, "name": "用户884", "gender": "Male", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 885, "name": "用户885", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "高血脂", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 886, "name": "用户886", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["高血脂", "肥胖", "肾病"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 887, "name": "用户887", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["肥胖", "高血压", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["常温"]}
+{"id": 888, "name": "用户888", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 889, "name": "用户889", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["胃病", "高血压", "肥胖"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 890, "name": "用户890", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["高血脂", "肥胖", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 891, "name": "用户891", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["肾病", "高血脂", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 892, "name": "用户892", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["顺滑"]}
+{"id": 893, "name": "用户893", "gender": "Male", "age_range": "60-70", "region": "西南地区", "health_conditions": ["糖尿病", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 894, "name": "用户894", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 895, "name": "用户895", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血脂", "高血压", "胃病"], "taste_preferences": ["甜"], "texture_preferences": ["常温"]}
+{"id": 896, "name": "用户896", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肾病", "胃病", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 897, "name": "用户897", "gender": "Female", "age_range": "80-90", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 898, "name": "用户898", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血脂", "胃病"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 899, "name": "用户899", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["肥胖", "关节炎", "高血压"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 900, "name": "用户900", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 901, "name": "用户901", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["筋道"]}
+{"id": 902, "name": "用户902", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肾病", "高血脂", "高血糖"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 903, "name": "用户903", "gender": "Male", "age_range": "80-90", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 904, "name": "用户904", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["肥胖", "高血压", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 905, "name": "用户905", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 906, "name": "用户906", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["高血脂", "关节炎", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["常温"]}
+{"id": 907, "name": "用户907", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["肥胖", "高血压", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 908, "name": "用户908", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["高血脂", "肾病", "胃病"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 909, "name": "用户909", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["胃病", "关节炎", "高血脂"], "taste_preferences": ["酸"], "texture_preferences": ["顺滑"]}
+{"id": 910, "name": "用户910", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["常温"]}
+{"id": 911, "name": "用户911", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 912, "name": "用户912", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 913, "name": "用户913", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["便秘", "肥胖", "高血脂"], "taste_preferences": ["甜"], "texture_preferences": ["Q弹"]}
+{"id": 914, "name": "用户914", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 915, "name": "用户915", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["高血脂", "肥胖", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["顺滑"]}
+{"id": 916, "name": "用户916", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血脂", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["顺滑"]}
+{"id": 917, "name": "用户917", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肾病", "胃病", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 918, "name": "用户918", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["高血压", "高血脂", "高血糖"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 919, "name": "用户919", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["糖尿病", "高血脂", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["常温"]}
+{"id": 920, "name": "用户920", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["清凉"]}
+{"id": 921, "name": "用户921", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 922, "name": "用户922", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 923, "name": "用户923", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["肥胖", "胃病", "高血压"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 924, "name": "用户924", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 925, "name": "用户925", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["Q弹"]}
+{"id": 926, "name": "用户926", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["胃病", "关节炎", "肾病"], "taste_preferences": ["鲜"], "texture_preferences": ["酥脆"]}
+{"id": 927, "name": "用户927", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["关节炎", "肥胖", "便秘"], "taste_preferences": ["鲜"], "texture_preferences": ["Q弹"]}
+{"id": 928, "name": "用户928", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["糖尿病", "高血糖", "肾病"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 929, "name": "用户929", "gender": "Male", "age_range": "70-80", "region": "华南地区", "health_conditions": ["关节炎", "便秘"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 930, "name": "用户930", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["肾病", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 931, "name": "用户931", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["高血糖", "关节炎", "高血脂"], "taste_preferences": ["咸"], "texture_preferences": ["Q弹"]}
+{"id": 932, "name": "用户932", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 933, "name": "用户933", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["胃病", "关节炎", "肥胖"], "taste_preferences": ["甜"], "texture_preferences": ["酥脆"]}
+{"id": 934, "name": "用户934", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["胃病", "肥胖", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["易咀嚼"]}
+{"id": 935, "name": "用户935", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["温热"]}
+{"id": 936, "name": "用户936", "gender": "Female", "age_range": "70-80", "region": "华东地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["清凉"]}
+{"id": 937, "name": "用户937", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["高血糖", "胃病", "高血脂"], "taste_preferences": ["辣"], "texture_preferences": ["易咀嚼"]}
+{"id": 938, "name": "用户938", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["清凉"]}
+{"id": 939, "name": "用户939", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["肥胖", "胃病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 940, "name": "用户940", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血压", "高血脂", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 941, "name": "用户941", "gender": "Male", "age_range": "80-90", "region": "华东地区", "health_conditions": ["糖尿病", "高血脂", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 942, "name": "用户942", "gender": "Female", "age_range": "60-70", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["酥脆"]}
+{"id": 943, "name": "用户943", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["关节炎", "高血糖", "高血脂"], "taste_preferences": ["甜"], "texture_preferences": ["筋道"]}
+{"id": 944, "name": "用户944", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["Q弹"]}
+{"id": 945, "name": "用户945", "gender": "Female", "age_range": "60-70", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 946, "name": "用户946", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["胃病", "高血压", "关节炎"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 947, "name": "用户947", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 948, "name": "用户948", "gender": "Male", "age_range": "60-70", "region": "华东地区", "health_conditions": ["糖尿病", "胃病", "关节炎"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 949, "name": "用户949", "gender": "Female", "age_range": "70-80", "region": "华南地区", "health_conditions": ["高血压", "糖尿病", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 950, "name": "用户950", "gender": "Female", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血糖", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["酥脆"]}
+{"id": 951, "name": "用户951", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 952, "name": "用户952", "gender": "Female", "age_range": "60-70", "region": "华北地区", "health_conditions": ["高血糖"], "taste_preferences": ["辣"], "texture_preferences": ["温热"]}
+{"id": 953, "name": "用户953", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["软烂"]}
+{"id": 954, "name": "用户954", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["高血糖", "胃病", "便秘"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 955, "name": "用户955", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["关节炎", "肥胖", "便秘"], "taste_preferences": ["清淡"], "texture_preferences": ["软烂"]}
+{"id": 956, "name": "用户956", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["肥胖", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["软烂"]}
+{"id": 957, "name": "用户957", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 958, "name": "用户958", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["高血脂", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 959, "name": "用户959", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 960, "name": "用户960", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["软烂"]}
+{"id": 961, "name": "用户961", "gender": "Male", "age_range": "80-90", "region": "华南地区", "health_conditions": ["高血脂", "关节炎", "糖尿病"], "taste_preferences": ["咸"], "texture_preferences": ["顺滑"]}
+{"id": 962, "name": "用户962", "gender": "Female", "age_range": "70-80", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["温热"]}
+{"id": 963, "name": "用户963", "gender": "Male", "age_range": "80-90", "region": "华北地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}
+{"id": 964, "name": "用户964", "gender": "Female", "age_range": "70-80", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["常温"]}
+{"id": 965, "name": "用户965", "gender": "Female", "age_range": "60-70", "region": "西南地区", "health_conditions": ["关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["常温"]}
+{"id": 966, "name": "用户966", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["鲜"], "texture_preferences": ["易咀嚼"]}
+{"id": 967, "name": "用户967", "gender": "Male", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肥胖", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 968, "name": "用户968", "gender": "Male", "age_range": "60-70", "region": "华北地区", "health_conditions": ["糖尿病", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 969, "name": "用户969", "gender": "Male", "age_range": "60-70", "region": "西北地区", "health_conditions": ["高血压", "关节炎", "高血脂"], "taste_preferences": ["酸"], "texture_preferences": ["Q弹"]}
+{"id": 970, "name": "用户970", "gender": "Female", "age_range": "80-90", "region": "东北地区", "health_conditions": ["高血糖", "胃病", "关节炎"], "taste_preferences": ["辣"], "texture_preferences": ["酥脆"]}
+{"id": 971, "name": "用户971", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["胃病", "肾病", "肥胖"], "taste_preferences": ["辣"], "texture_preferences": ["清凉"]}
+{"id": 972, "name": "用户972", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["胃病", "肥胖", "糖尿病"], "taste_preferences": ["酸"], "texture_preferences": ["易咀嚼"]}
+{"id": 973, "name": "用户973", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["高血压", "胃病", "关节炎"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 974, "name": "用户974", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["便秘", "高血脂", "高血糖"], "taste_preferences": ["苦"], "texture_preferences": ["酥脆"]}
+{"id": 975, "name": "用户975", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["胃病", "高血糖", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["酥脆"]}
+{"id": 976, "name": "用户976", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["健康"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 977, "name": "用户977", "gender": "Female", "age_range": "70-80", "region": "东北地区", "health_conditions": ["高血糖", "肾病", "高血压"], "taste_preferences": ["清淡"], "texture_preferences": ["温热"]}
+{"id": 978, "name": "用户978", "gender": "Female", "age_range": "80-90", "region": "华中地区", "health_conditions": ["健康"], "taste_preferences": ["甜"], "texture_preferences": ["软烂"]}
+{"id": 979, "name": "用户979", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["胃病", "肾病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 980, "name": "用户980", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["关节炎", "高血脂", "胃病"], "taste_preferences": ["苦"], "texture_preferences": ["易咀嚼"]}
+{"id": 981, "name": "用户981", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["胃病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["清凉"]}
+{"id": 982, "name": "用户982", "gender": "Male", "age_range": "60-70", "region": "东北地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 983, "name": "用户983", "gender": "Female", "age_range": "80-90", "region": "华东地区", "health_conditions": ["肾病", "胃病"], "taste_preferences": ["鲜"], "texture_preferences": ["常温"]}
+{"id": 984, "name": "用户984", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 985, "name": "用户985", "gender": "Female", "age_range": "80-90", "region": "华北地区", "health_conditions": ["关节炎", "高血糖", "肥胖"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 986, "name": "用户986", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["酸"], "texture_preferences": ["清凉"]}
+{"id": 987, "name": "用户987", "gender": "Male", "age_range": "60-70", "region": "华南地区", "health_conditions": ["高血脂"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 988, "name": "用户988", "gender": "Male", "age_range": "70-80", "region": "华北地区", "health_conditions": ["肾病", "肥胖", "胃病"], "taste_preferences": ["酸"], "texture_preferences": ["温热"]}
+{"id": 989, "name": "用户989", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["肥胖", "肾病", "高血糖"], "taste_preferences": ["甜"], "texture_preferences": ["温热"]}
+{"id": 990, "name": "用户990", "gender": "Female", "age_range": "80-90", "region": "华南地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["易咀嚼"]}
+{"id": 991, "name": "用户991", "gender": "Female", "age_range": "60-70", "region": "西北地区", "health_conditions": ["肾病", "高血脂", "关节炎"], "taste_preferences": ["清淡"], "texture_preferences": ["筋道"]}
+{"id": 992, "name": "用户992", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["肥胖", "高血压", "肾病"], "taste_preferences": ["咸"], "texture_preferences": ["酥脆"]}
+{"id": 993, "name": "用户993", "gender": "Male", "age_range": "60-70", "region": "华中地区", "health_conditions": ["高血脂", "胃病", "关节炎"], "taste_preferences": ["苦"], "texture_preferences": ["温热"]}
+{"id": 994, "name": "用户994", "gender": "Male", "age_range": "70-80", "region": "东北地区", "health_conditions": ["肾病", "高血脂"], "taste_preferences": ["苦"], "texture_preferences": ["顺滑"]}
+{"id": 995, "name": "用户995", "gender": "Male", "age_range": "70-80", "region": "华东地区", "health_conditions": ["健康"], "taste_preferences": ["咸"], "texture_preferences": ["常温"]}
+{"id": 996, "name": "用户996", "gender": "Female", "age_range": "80-90", "region": "西南地区", "health_conditions": ["肥胖", "高血糖", "便秘"], "taste_preferences": ["辣"], "texture_preferences": ["顺滑"]}
+{"id": 997, "name": "用户997", "gender": "Male", "age_range": "70-80", "region": "西北地区", "health_conditions": ["健康"], "taste_preferences": ["清淡"], "texture_preferences": ["酥脆"]}
+{"id": 998, "name": "用户998", "gender": "Female", "age_range": "70-80", "region": "西北地区", "health_conditions": ["肥胖", "高血糖"], "taste_preferences": ["鲜"], "texture_preferences": ["筋道"]}
+{"id": 999, "name": "用户999", "gender": "Male", "age_range": "80-90", "region": "东北地区", "health_conditions": ["高血糖", "胃病", "关节炎"], "taste_preferences": ["咸"], "texture_preferences": ["易咀嚼"]}
+{"id": 1000, "name": "用户1000", "gender": "Female", "age_range": "70-80", "region": "西南地区", "health_conditions": ["肾病", "肥胖", "糖尿病"], "taste_preferences": ["酸"], "texture_preferences": ["软烂"]}

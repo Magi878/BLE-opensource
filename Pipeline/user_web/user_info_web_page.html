@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>用户信息配置 - 饱了吗</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1800px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            backdrop-filter: blur(10px);
+            height: calc(100vh - 40px);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+            padding: 20px 30px;
+            text-align: center;
+            flex-shrink: 0;
+        }
+
+        .header h1 {
+            font-size: 2em;
+            margin-bottom: 5px;
+            font-weight: 700;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 1em;
+        }
+
+        .main-content {
+            display: flex;
+            flex: 1;
+            overflow: hidden;
+        }
+
+        .left-panel {
+            width: 30%;
+            background: #f8f9fa;
+            padding: 30px;
+            border-right: 2px solid #e0e0e0;
+            overflow-y: auto;
+        }
+
+        .center-panel {
+            width: 40%;
+            padding: 30px;
+            overflow-y: auto;
+            border-right: 2px solid #e0e0e0;
+        }
+
+        .right-panel {
+            width: 30%;
+            padding: 30px;
+            overflow-y: auto;
+            background: #f5f5f5;
+        }
+
+        .current-config {
+            background: #e8f5e8;
+            border: 2px solid #4caf50;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .default-users {
+            background: #e3f2fd;
+            border: 2px solid #2196f3;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        .default-users h3 {
+            color: #1565c0;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+
+        .user-buttons {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+            gap: 10px;
+        }
+
+        .user-btn {
+            padding: 10px;
+            background: #bbdefb;
+            border: 1px solid #90caf9;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-align: center;
+            font-size: 0.9em;
+        }
+
+        .user-btn:hover {
+            background: #90caf9;
+            transform: translateY(-2px);
+        }
+
+        .user-details {
+            margin-top: 20px;
+            padding: 15px;
+            background: #e8f5e9;
+            border-radius: 8px;
+            border: 1px solid #a5d6a7;
+        }
+
+        .user-details h4 {
+            color: #2e7d32;
+            margin-bottom: 10px;
+        }
+
+        .select-user-btn {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+            background: #4caf50;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .select-user-btn:hover {
+            background: #388e3c;
+        }
+
+        .current-config h3 {
+            color: #2e7d32;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+
+        .config-item {
+            margin-bottom: 10px;
+            color: #333;
+            font-size: 0.95em;
+        }
+
+        .config-item strong {
+            color: #2e7d32;
+        }
+
+        .form-group {
+            margin-bottom: 25px;
+        }
+
+        .form-group label {
+            display: block;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 8px;
+            font-size: 1.1em;
+        }
+
+        .form-control {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid #e0e0e0;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: all 0.3s ease;
+            background: #f8f9fa;
+        }
+
+        .form-control:focus {
+            outline: none;
+            border-color: #4facfe;
+            background: white;
+            box-shadow: 0 0 0 3px rgba(79, 172, 254, 0.1);
+        }
+
+        .checkbox-group {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 8px;
+            margin-top: 10px;
+        }
+
+        .checkbox-item {
+            display: flex;
+            align-items: center;
+            padding: 8px;
+            background: #f8f9fa;
+            border-radius: 6px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            font-size: 0.9em;
+        }
+
+        .checkbox-item:hover {
+            background: #e3f2fd;
+            transform: translateY(-1px);
+        }
+
+        .checkbox-item input[type="checkbox"] {
+            margin-right: 8px;
+            transform: scale(1.1);
+            accent-color: #4facfe;
+        }
+
+        .radio-group {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 8px;
+            margin-top: 10px;
+        }
+
+        .radio-item {
+            display: flex;
+            align-items: center;
+            padding: 8px;
+            background: #f8f9fa;
+            border-radius: 6px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            font-size: 0.9em;
+        }
+
+        .radio-item:hover {
+            background: #e3f2fd;
+            transform: translateY(-1px);
+        }
+
+        .radio-item input[type="radio"] {
+            margin-right: 8px;
+            transform: scale(1.1);
+            accent-color: #4facfe;
+        }
+
+        .submit-btn {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-size: 1.2em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 30px;
+        }
+
+        .submit-btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 25px rgba(102, 126, 234, 0.4);
+        }
+
+        .submit-btn:active {
+            transform: translateY(-1px);
+        }
+
+        /* 结果展示区域样式 */
+        .result-container {
+            margin-top: 20px;
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .result-item {
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #eee;
+        }
+
+        .result-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+
+        .result-title {
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .result-content {
+            color: #666;
+        }
+
+        .result-time {
+            font-size: 0.8em;
+            color: #999;
+            text-align: right;
+        }
+
+        .result-duration {
+            font-size: 0.9em;
+            color: #4CAF50;
+            font-weight: bold;
+        }
+
+        @media (max-width: 1200px) {
+            .left-panel, .center-panel, .right-panel {
+                width: 50%;
+            }
+            .right-panel {
+                display: none;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 10px;
+                border-radius: 15px;
+                height: calc(100vh - 20px);
+            }
+            
+            .main-content {
+                flex-direction: column;
+            }
+            
+            .left-panel, .center-panel, .right-panel {
+                width: 100%;
+                padding: 20px;
+                border-right: none;
+                border-bottom: 2px solid #e0e0e0;
+            }
+            
+            .checkbox-group, .radio-group {
+                grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🍽️ 饱了吗</h1>
+            <p>个性化用户信息配置</p>
+        </div>
+        
+        <div class="main-content">
+            <div class="left-panel">
+                <div id="currentConfig" class="current-config">
+                    <h3>📋 当前配置</h3>
+                    <div id="configDisplay">
+                        <div class="config-item">暂无配置信息</div>
+                    </div>
+
+                    <div class="default-users">
+                        <h3>👥 默认用户</h3>
+                        <div class="user-buttons" id="defaultUsers">
+                            <!-- 这里将通过JS动态加载默认用户按钮 -->
+                        </div>
+                        <div class="user-details" id="userDetails" style="display: none;">
+                            <h4>用户详情</h4>
+                            <div id="userDetailsContent"></div>
+                            <button class="select-user-btn" id="selectUserBtn">选择此用户</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="center-panel">
+                <form id="userForm">
+                    <div class="form-group">
+                        <label for="user_id">👤 用户ID</label>
+                        <input type="number" id="user_id" name="user_id" class="form-control" required min="1">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="name">📝 姓名</label>
+                        <input type="text" id="name" name="name" class="form-control" required>
+                    </div>
+
+                    <div class="form-group">
+                        <label>👫 性别</label>
+                        <div class="radio-group">
+                            <label class="radio-item">
+                                <input type="radio" name="gender" value="Male" required>
+                                <span>男性</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="gender" value="Female" required>
+                                <span>女性</span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>🎂 年龄段</label>
+                        <div class="radio-group">
+                            <label class="radio-item">
+                                <input type="radio" name="age_range" value="60-70" required>
+                                <span>60-70岁</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="age_range" value="70-80" required>
+                                <span>70-80岁</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="age_range" value="80-90" required>
+                                <span>80-90岁</span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>🌍 地区</label>
+                        <div class="radio-group">
+                            <label class="radio-item">
+                                <input type="radio" name="region" value="东北地区" required>
+                                <span>东北地区</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="region" value="西北地区" required>
+                                <span>西北地区</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="region" value="华北地区" required>
+                                <span>华北地区</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="region" value="华东地区" required>
+                                <span>华东地区</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="region" value="华中地区" required>
+                                <span>华中地区</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="region" value="西南地区" required>
+                                <span>西南地区</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="region" value="华南地区" required>
+                                <span>华南地区</span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>🏥 健康状况（可多选, 健康与疾病互斥）</label>
+                        <div class="checkbox-group">
+                            <label class="checkbox-item">
+                                <input type="checkbox" name="health_conditions" value="肥胖">
+                                <span>肥胖</span>
+                            </label>
+                            <label class="checkbox-item">
+                                <input type="checkbox" name="health_conditions" value="高血压">
+                                <span>高血压</span>
+                            </label>
+                            <label class="checkbox-item">
+                                <input type="checkbox" name="health_conditions" value="糖尿病">
+                                <span>糖尿病</span>
+                            </label>
+                            <label class="checkbox-item">
+                                <input type="checkbox" name="health_conditions" value="肾病">
+                                <span>肾病</span>
+                            </label>
+                            <label class="checkbox-item">
+                                <input type="checkbox" name="health_conditions" value="高血脂">
+                                <span>高血脂</span>
+                            </label>
+                            <label class="checkbox-item">
+                                <input type="checkbox" name="health_conditions" value="高血糖">
+                                <span>高血糖</span>
+                            </label>
+                            <label class="checkbox-item">
+                                <input type="checkbox" name="health_conditions" value="胃病">
+                                <span>胃病</span>
+                            </label>
+                            <label class="checkbox-item">
+                                <input type="checkbox" name="health_conditions" value="关节炎">
+                                <span>关节炎</span>
+                            </label>
+                            <label class="checkbox-item">
+                                <input type="checkbox" name="health_conditions" value="便秘">
+                                <span>便秘</span>
+                            </label>
+                            <label class="checkbox-item">
+                                <input type="checkbox" name="health_conditions" value="健康" id="healthy">
+                                <span>健康</span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>👅 口味偏好</label>
+                        <div class="radio-group">
+                            <label class="radio-item">
+                                <input type="radio" name="taste_preferences" value="清淡" required>
+                                <span>清淡</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="taste_preferences" value="酸" required>
+                                <span>酸味</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="taste_preferences" value="鲜" required>
+                                <span>鲜味</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="taste_preferences" value="甜" required>
+                                <span>甜味</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="taste_preferences" value="辣" required>
+                                <span>辣味</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="taste_preferences" value="咸" required>
+                                <span>咸味</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="taste_preferences" value="苦" required>
+                                <span>苦味</span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label>🥢 口感偏好</label>
+                        <div class="radio-group">
+                            <label class="radio-item">
+                                <input type="radio" name="texture_preferences" value="软烂" required>
+                                <span>软烂</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="texture_preferences" value="易咀嚼" required>
+                                <span>易咀嚼</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="texture_preferences" value="顺滑" required>
+                                <span>顺滑</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="texture_preferences" value="温热" required>
+                                <span>温热</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="texture_preferences" value="清凉" required>
+                                <span>清凉</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="texture_preferences" value="常温" required>
+                                <span>常温</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="texture_preferences" value="酥脆" required>
+                                <span>酥脆</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="texture_preferences" value="Q弹" required>
+                                <span>Q弹</span>
+                            </label>
+                            <label class="radio-item">
+                                <input type="radio" name="texture_preferences" value="筋道" required>
+                                <span>筋道</span>
+                            </label>
+                        </div>
+                    </div>
+
+                    <button type="submit" class="submit-btn">✨ 保存配置</button>
+                </form>
+            </div>
+
+            <div class="right-panel">
+                <h3>📊 语音识别结果</h3>
+                <div id="resultHistory" class="result-container">
+                    <div class="result-item">
+                        <div class="result-content">暂无识别记录</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 全局变量存储当前用户的历史记录
+        let currentUserOrderHistory = [];
+        // 全局变量存储当前用户配置
+        let currentUserConfig = {};
+        // 全局变量存储识别结果历史
+        let recognitionHistory = [];
+
+        // 初始化WebSocket连接
+        let socket;
+
+        // 页面加载时初始化WebSocket连接
+        window.addEventListener('DOMContentLoaded', function() {
+            // 初始化Socket.IO连接
+            socket = io();
+            
+            // 监听连接状态
+            socket.on('connect', function() {
+                console.log('已连接到服务器');
+            });
+            
+            socket.on('disconnect', function() {
+                console.log('与服务器断开连接');
+            });
+            
+            // 监听识别结果
+            socket.on('recognition_result', function(data) {
+                console.log('收到识别结果:', data);
+                addRecognitionResult(data);
+            });
+            
+            // 原有的初始化代码
+            loadCurrentConfig();
+            loadDefaultUsers();
+        });
+
+        // 健康状况互斥逻辑
+        const healthCheckboxes = document.querySelectorAll('input[name="health_conditions"]');
+        const healthyCheckbox = document.getElementById('healthy');
+        
+        healthCheckboxes.forEach(checkbox => {
+            checkbox.addEventListener('change', function() {
+                if (this.value === '健康') {
+                    if (this.checked) {
+                        // 选择健康时，取消其他所有疾病选择
+                        healthCheckboxes.forEach(cb => {
+                            if (cb.value !== '健康') {
+                                cb.checked = false;
+                            }
+                        });
+                    }
+                } else {
+                    // 选择疾病时，取消健康选择
+                    if (this.checked) {
+                        healthyCheckbox.checked = false;
+                    }
+                }
+            });
+        });
+
+        // 页面加载时获取当前配置
+        window.addEventListener('DOMContentLoaded', function() {
+            loadCurrentConfig();
+            loadDefaultUsers();
+        });
+
+        // 加载默认用户
+        function loadDefaultUsers() {
+            fetch('/get_default_users', {
+                method: 'GET',
+                headers: {
+                    'Content-Type': 'application/json',
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.code === 200 && data.data && data.data.length > 0) {
+                    displayDefaultUsers(data.data);
+                }
+            })
+            .catch(error => {
+                console.log('获取默认用户失败:', error);
+            });
+        }
+
+        // 显示默认用户按钮
+        function displayDefaultUsers(users) {
+            const usersContainer = document.getElementById('defaultUsers');
+            usersContainer.innerHTML = '';
+            
+            users.forEach(user => {
+                const btn = document.createElement('button');
+                btn.className = 'user-btn';
+                btn.textContent = user.name;
+                btn.onclick = () => showUserDetails(user);
+                usersContainer.appendChild(btn);
+            });
+        }
+
+        // 显示用户详情
+        function showUserDetails(user) {
+            const detailsContainer = document.getElementById('userDetailsContent');
+            const userDetailsSection = document.getElementById('userDetails');
+            
+            // 格式化订单历史
+            const orderHistory = user.order_history || [];
+            const ordersHtml = orderHistory.map(order => 
+                `<div><strong>${order.date}:</strong> ${order.dishes.join(', ')}</div>`
+            ).join('');
+            
+            detailsContainer.innerHTML = `
+                <div><strong>ID:</strong> ${user.id}</div>
+                <div><strong>姓名:</strong> ${user.name}</div>
+                <div><strong>性别:</strong> ${user.gender}</div>
+                <div><strong>年龄段:</strong> ${user.age_range}</div>
+                <div><strong>地区:</strong> ${user.region}</div>
+                <div><strong>健康状况:</strong> ${user.health_conditions.join(', ')}</div>
+                <div><strong>口味偏好:</strong> ${user.taste_preferences.join(', ')}</div>
+                <div><strong>口感偏好:</strong> ${user.texture_preferences.join(', ')}</div>
+                
+                <div style="margin-top: 15px;"><strong>订单历史:</strong></div>
+                <div style="max-height: 200px; overflow-y: auto; margin-top: 5px;">
+                    ${ordersHtml}
+                </div>
+            `;
+            
+            // 设置选择按钮事件
+            document.getElementById('selectUserBtn').onclick = () => selectUser(user);
+            
+            userDetailsSection.style.display = 'block';
+        }
+
+        // 选择用户
+        function selectUser(user) {
+            // 保存历史记录
+            currentUserOrderHistory = user.order_history || [];
+            
+            // 填充表单
+            fillForm(user);
+            
+            // 隐藏详情
+            document.getElementById('userDetails').style.display = 'none';
+            
+            // 显示当前配置
+            displayCurrentConfig(user);
+            
+            // 自动滚动到表单顶部
+            document.querySelector('.center-panel').scrollTo(0, 0);
+        }
+
+        // 加载当前配置
+        function loadCurrentConfig() {
+            fetch('/get_user_config', {
+                method: 'GET',
+                headers: {
+                    'Content-Type': 'application/json',
+                }
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.code === 200 && data.data) {
+                    // 保存历史记录
+                    currentUserOrderHistory = data.data.order_history || [];
+                    currentUserConfig = data.data;
+                    displayCurrentConfig(data.data);
+                    fillForm(data.data);
+                }
+            })
+            .catch(error => {
+                console.log('获取配置失败:', error);
+            });
+        }
+
+        // 显示当前配置
+        function displayCurrentConfig(config) {
+            const configDiv = document.getElementById('configDisplay');
+            
+            // 格式化订单历史
+            const orderHistory = config.order_history || [];
+            const ordersHtml = orderHistory.length > 0 
+                ? orderHistory.map(order => 
+                    `<div><strong>${order.date}:</strong> ${order.dishes.join(', ')}</div>`
+                ).join('')
+                : '<div>无历史记录</div>';
+            
+            configDiv.innerHTML = `
+                <div class="config-item"><strong>用户ID:</strong> ${config.id || '未设置'}</div>
+                <div class="config-item"><strong>姓名:</strong> ${config.name || '未设置'}</div>
+                <div class="config-item"><strong>性别:</strong> ${config.gender || '未设置'}</div>
+                <div class="config-item"><strong>年龄段:</strong> ${config.age_range || '未设置'}</div>
+                <div class="config-item"><strong>地区:</strong> ${config.region || '未设置'}</div>
+                <div class="config-item"><strong>健康状况:</strong> ${(config.health_conditions || []).join(', ') || '未设置'}</div>
+                <div class="config-item"><strong>口味偏好:</strong> ${config.taste_preferences || '未设置'}</div>
+                <div class="config-item"><strong>口感偏好:</strong> ${config.texture_preferences || '未设置'}</div>
+                <div class="config-item" style="margin-top: 15px;"><strong>历史订单:</strong></div>
+                <div style="max-height: 200px; overflow-y: auto; margin-top: 5px; padding: 5px; background: #f5f5f5; border-radius: 5px;">
+                    ${ordersHtml}
+                </div>
+            `;
+        }
+
+        // 填充表单
+        function fillForm(config) {
+            if (config.id) document.getElementById('user_id').value = config.id;
+            if (config.name) document.getElementById('name').value = config.name;
+            
+            if (config.gender) {
+                const genderRadio = document.querySelector(`input[name="gender"][value="${config.gender}"]`);
+                if (genderRadio) genderRadio.checked = true;
+            }
+            
+            if (config.age_range) {
+                const ageRadio = document.querySelector(`input[name="age_range"][value="${config.age_range}"]`);
+                if (ageRadio) ageRadio.checked = true;
+            }
+            
+            if (config.region) {
+                const regionRadio = document.querySelector(`input[name="region"][value="${config.region}"]`);
+                if (regionRadio) regionRadio.checked = true;
+            }
+            
+            if (config.health_conditions) {
+                // 先取消所有选择
+                document.querySelectorAll('input[name="health_conditions"]').forEach(cb => cb.checked = false);
+                
+                // 然后选择当前配置
+                config.health_conditions.forEach(condition => {
+                    const checkbox = document.querySelector(`input[name="health_conditions"][value="${condition}"]`);
+                    if (checkbox) checkbox.checked = true;
+                });
+            }
+            
+            if (config.taste_preferences) {
+                const tasteRadio = document.querySelector(`input[name="taste_preferences"][value="${config.taste_preferences}"]`);
+                if (tasteRadio) tasteRadio.checked = true;
+            }
+            
+            if (config.texture_preferences) {
+                const textureRadio = document.querySelector(`input[name="texture_preferences"][value="${config.texture_preferences}"]`);
+                if (textureRadio) textureRadio.checked = true;
+            }
+        }
+
+        // 添加识别结果到历史记录
+        // function addRecognitionResult(resultData) {
+        //     recognitionHistory.unshift(resultData);
+        //     if (recognitionHistory.length > 5) {
+        //         recognitionHistory.pop();
+        //     }
+        //     updateResultDisplay();
+        // }
+        // 修改addRecognitionResult函数以适应新的数据格式
+        function addRecognitionResult(resultData) {
+            const newResult = {
+                ext: {
+                    asr_result: resultData.asr_result,
+                    recommended_dish: resultData.recommended_dish,
+                    processing_time: resultData.processing_time,
+                    timestamp: resultData.timestamp
+                }
+            };
+            
+            recognitionHistory.unshift(newResult);
+            if (recognitionHistory.length > 10) {  // 增加历史记录保存数量
+                recognitionHistory.pop();
+            }
+            updateResultDisplay();
+        }
+        // 更新结果展示
+        function updateResultDisplay() {
+            const resultContainer = document.getElementById('resultHistory');
+            
+            if (recognitionHistory.length === 0) {
+                resultContainer.innerHTML = `
+                    <div class="result-item">
+                        <div class="result-content">暂无识别记录</div>
+                    </div>
+                `;
+                return;
+            }
+            
+            let html = '';
+            recognitionHistory.forEach(result => {
+                html += `
+                    <div class="result-item">
+                        <div class="result-title">识别文本:</div>
+                        <div class="result-content">${result.ext.asr_result}</div>
+                        
+                        <div class="result-title" style="margin-top: 10px;">推荐菜品:</div>
+                        <div class="result-content">${result.ext.recommended_dish}</div>
+                        
+                        <div class="result-duration">耗时: ${result.ext.processing_time}ms</div>
+                        <div class="result-time">${result.ext.timestamp}</div>
+                    </div>
+                `;
+            });
+            
+            resultContainer.innerHTML = html;
+        }
+
+        // 表单提交
+        document.getElementById('userForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const formData = new FormData(this);
+            const userInfo = {
+                id: parseInt(formData.get('user_id')),
+                name: formData.get('name'),
+                gender: formData.get('gender'),
+                age_range: formData.get('age_range'),
+                region: formData.get('region'),
+                health_conditions: formData.getAll('health_conditions'),
+                taste_preferences: formData.get('taste_preferences'),
+                texture_preferences: formData.get('texture_preferences'),
+                // 保留现有的历史记录
+                order_history: currentUserOrderHistory || []
+            };
+
+            // 更新当前用户配置
+            currentUserConfig = userInfo;
+
+            // 提交数据
+            fetch('/set_user_config', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify(userInfo)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.code === 200) {
+                    alert('✅ 配置保存成功！');
+                    displayCurrentConfig(userInfo);
+                } else {
+                    alert('❌ 保存失败: ' + (data.message || '未知错误'));
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('❌ 网络错误，请重试');
+            });
+        });
+
+        // 模拟语音识别结果（实际使用时应该从真实的语音识别回调中调用addRecognitionResult）
+        function simulateVoiceRecognition() {
+            const mockResponse = {
+                code: 200,
+                message: "success",
+                data: {
+                    result: "给我点清蒸鲈鱼",
+                    ext: {
+                        user_info: currentUserConfig,
+                        asr_result: "我想吃清蒸鲈鱼",
+                        recommended_dish: "清蒸鲈鱼",
+                        processing_time: 1250,
+                        timestamp: new Date().toLocaleString()
+                    }
+                }
+            };
+            
+            addRecognitionResult(mockResponse.data);
+        }
+
+        // 模拟语音识别按钮（实际使用时应该连接到真实的语音识别按钮）
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'r' && e.ctrlKey) {
+                simulateVoiceRecognition();
+            }
+        });
+    </script>
+</body>
+</html>
