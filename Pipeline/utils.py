@@ -63,7 +63,8 @@ def get_meal():
 
 def get_user_info(idx):
     """读取指定行的老人信息"""
-    info_path = r"Pipeline/data/UserData/1000_user_processed_with_query_infos.jsonl"
+    # info_path = r"Pipeline/data/UserData/1000_user_processed_with_query_infos.jsonl"
+    info_path = r"Pipeline/data/UserData/1000_user_processed_with_health_constraints.jsonl"
     
     with open(info_path, 'r', encoding='utf-8') as f:
         # 逐行读取直到指定行

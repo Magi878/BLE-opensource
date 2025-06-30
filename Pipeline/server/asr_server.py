@@ -21,7 +21,7 @@ asr_infer = ASRInference(model_name_or_path=model_path, modes=None, output_dir=a
 # 配置设置
 class Config:
     def __init__(self):
-        self.temp_dir = "/data/ganshushen/Projects/BLE_CODE_OPEN/Pipeline/server/temp_wavs"  # 默认临时目录
+        self.temp_dir = "/Pipeline/server/temp_wavs"  # 默认临时目录
         
 config = Config()
 

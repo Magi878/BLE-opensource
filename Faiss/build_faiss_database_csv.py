@@ -1,6 +1,5 @@
 import faiss
 import numpy as np
-import json
 import pickle
 import pandas as pd
 from typing import Dict, List
@@ -88,7 +87,7 @@ def insert_data_from_csv(db: FAISSDatabase, csv_file_path: str, embedding_model)
 def Get_Embedding_Model(model_name: str):
     if model_name == "bge":
         from FlagEmbedding import FlagModel
-        embedding_model = FlagModel('/data/ganshushen/Projects/MainBranch_Git/bge-large-zh-v1.5',
+        embedding_model = FlagModel('model/bge-large-zh-v1.5',
                                     query_instruction_for_retrieval="为这个句子生成表示以用于检索相关文章：",
                                     use_fp16=False,
                                     devices='cuda:1',
@@ -109,6 +108,6 @@ if __name__ == "__main__":
     insert_data_from_csv(db, csv_file_path, embedding_model)
 
     # 保存数据库
-    db.save("/data/ganshushen/Projects/MainBranch/Faiss/database/REWRITE_DATABASE")
+    db.save("Faiss/database/REWRITE_DATABASE")
 
     print("索引构建完成，已保存到指定路径")

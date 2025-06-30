@@ -87,7 +87,7 @@ def insert_data_from_jsonl(db: FAISSDatabase, jsonl_file_path: str, embedding_mo
 def Get_Embedding_Model(model_name:str):
     if model_name == "bge":
         from FlagEmbedding import FlagModel
-        embedding_model = FlagModel('/data/ele/Projects/gss/bge-large-zh-v1.5', 
+        embedding_model = FlagModel('model/bge-large-zh-v1.5', 
                         query_instruction_for_retrieval="为这个句子生成表示以用于检索相关文章：",
                         use_fp16=False,
                         devices='cuda:3',

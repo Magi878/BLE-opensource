@@ -18,7 +18,7 @@ from utils import (
 )
 
 from llmrec_engine import async_llm_rerank, async_rerank
-from KG_Retriever import fetch_dishes_from_KG,search_dish_recommendation
+from kg_retriever import fetch_dishes_from_KG,search_dish_recommendation
 from multi_path_retriever import BM25_Retrieval,rrf_fusion,Multi_Path_Search
 from ASR_Paraformer import ASR
 
@@ -236,7 +236,7 @@ async def main(save_wav_path, builder, user_info_web=None):
     
     # 后端
     else:
-        user_id = 5
+        user_id = 105
         print(f"✅ 本地用户{user_id}信息")
         user_info = get_user_info(user_id)
 
@@ -256,8 +256,8 @@ async def main(save_wav_path, builder, user_info_web=None):
 
     # Step 1: ASR语音识别
     print("\n📢 Step 1: ASR语音识别")
-    query = ASR(save_wav_path)
-    # query = "来点清淡的吧"
+    # query = ASR(save_wav_path)
+    query = "来点清淡的吧"
     print(f"ASR识别结果：{query}")
 
     async with aiohttp.ClientSession() as session:  
@@ -344,7 +344,6 @@ async def main(save_wav_path, builder, user_info_web=None):
                     print(f"知识图谱原始召回菜品长度：{len(cypher_results)}")
 
                     if len(cypher_results) > 30:
-                        print(f"知识图谱召回大于30道，使用用户历史信息做筛选")
                         cypher_results = search_dish_recommendation(
                             user_info["id"], cypher_results, k
                         )

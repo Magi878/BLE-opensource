@@ -61,7 +61,7 @@ def _get_template_key(taste, texture, function):
         return "only_taste"  # 默认逻辑（可根据实际需求调整）
 
 
-def _prepare_query_params(taste, texture, function, meal,health_constraint=None):
+def _prepare_query_params(taste, texture, function, meal, health_constraint=None):
     """格式化查询条件，生成模板所需的参数字典"""
     params = {}
     
@@ -82,9 +82,11 @@ def _prepare_query_params(taste, texture, function, meal,health_constraint=None)
         meal_condition = "IS NULL"
     params["meal_condition"] = meal_condition
     
-    # 处理健康约束
+    # 处理健康约束 - 确保始终存在
     if health_constraint:
         params["health_constraint"] = health_constraint
+    else:
+        params["health_constraint"] = ""  # 空字符串，不添加任何约束
     
     return params
 
