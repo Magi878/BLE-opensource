@@ -300,7 +300,7 @@ async def main(save_wav_path, builder, user_info_web=None):
               
                 if taste or texture or function:
                   
-                    # 已改为并行召回
+                   
                     parallel_search_results = await parallel_search_combined(
                         query, k, itemname, taste, texture, function, user_info, meal
                     )
@@ -336,7 +336,7 @@ async def main(save_wav_path, builder, user_info_web=None):
                     print(
                         "\n🚩 点餐菜品❌，菜品类别❌，口味要求❌，填入用户的信息进行知识图谱召回✅✅"
                     )
-                    # print("没有明确的菜名,也没有对口味,口感,功效方面的要求,那么填入用户的信息")
+                  
                     print(user_info)
                     cypher_results = fetch_dishes_from_KG(
                         taste, texture, function, user_info, meal
@@ -367,7 +367,6 @@ async def main(save_wav_path, builder, user_info_web=None):
             if not hasHallucination_rerank(results["llm_results"], product_list):
                 final_result = results["llm_results"]  # 没有幻觉，直接使用LLM结果
             else:
-                # final_result = results["bge_results"]   # LLM发生了幻觉，使用BGE结果作为兜底
                 final_result = results["bge_results"]["ranked_results"][0][
                     "DishName"
                 ]  # LLM发生了幻觉，使用BGE结果作为兜底
