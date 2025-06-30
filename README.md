@@ -1,105 +1,6 @@
+# 2025年“饿了么”AI大赛 赛道一：智慧养老 冠军 饱了吗队方案
 
-
-
-          
-我需要先了解这个开源项目的整体文件结构，然后为其编写一个清晰的README文档。
-        
-            
-toolName: view_folder
-            
-status: success
-          
-/data/ganshushen/Projects/BLE_CODE_OPEN
-          
-现在我需要查看更多的目录结构细节，特别是Faiss和model目录的内容。
-        
-            
-toolName: view_folder
-            
-status: success
-          
-/data/ganshushen/Projects/BLE_CODE_OPEN/Faiss
-          
-查看model目录的内容。
-        
-            
-toolName: view_folder
-            
-status: success
-          
-/data/ganshushen/Projects/BLE_CODE_OPEN/model
-          
-查看Pipeline/data目录下的具体内容。
-        
-            
-toolName: view_folder
-            
-status: success
-          
-/data/ganshushen/Projects/BLE_CODE_OPEN/Pipeline/data
-          
-查看Pipeline/server目录下的logs文件夹内容。
-        
-            
-toolName: view_folder
-            
-status: success
-          
-/data/ganshushen/Projects/BLE_CODE_OPEN/Pipeline/server
-          
-现在我需要查看一些关键文件的内容来了解项目的功能和架构，先查看主要的入口文件。
-        
-            
-toolName: view_files
-            
-status: success
-          
-            
-filePath: /data/ganshushen/Projects/BLE_CODE_OPEN/Pipeline/main.py
-          
-查看项目的天猫服务器文件，了解项目的主要功能。
-        
-            
-toolName: view_files
-            
-status: success
-          
-            
-filePath: /data/ganshushen/Projects/BLE_CODE_OPEN/Pipeline/_tianmao_server.py
-          
-查看知识图谱检索器文件，了解项目的核心功能。
-        
-            
-toolName: view_files
-            
-status: success
-          
-            
-filePath: /data/ganshushen/Projects/BLE_CODE_OPEN/Pipeline/kg_retriever.py
-          
-查看快速启动脚本，了解项目的服务架构。
-        
-            
-toolName: view_files
-            
-status: success
-          
-            
-filePath: /data/ganshushen/Projects/BLE_CODE_OPEN/Pipeline/server/quick_start_all_sever.sh
-          
-查看多路检索器文件，了解项目的检索机制。
-        
-            
-toolName: view_files
-            
-status: success
-          
-            
-filePath: /data/ganshushen/Projects/BLE_CODE_OPEN/Pipeline/multi_path_retriever.py
-          
-# BLE_CODE_OPEN
-
-一个基于大语言模型和知识图谱的智能菜品推荐系统，专为老年人群体设计，支持语音交互和个性化健康约束。
+一个基于大语言模型和知识图谱的智能菜品推荐系统，专为老年人群体设计，支持语音交互和个性化推荐。
 
 ## 🎯 项目简介
 
@@ -146,14 +47,14 @@ BLE_CODE_OPEN/
     │       └── *.wav            # 语音文件
     └── server/                   # 微服务模块
         ├── quick_start_all_sever.sh      # 一键启动所有服务脚本
-        ├── asr_server.py                 # ASR服务 (端口8003)
-        ├── embedding_service.py          # 嵌入服务 (端口8001)
-        ├── reranker_service.py           # 重排序服务 (端口8000)
-        ├── rewrite_faiss_server.py       # 查询重写FAISS服务 (端口5001)
-        ├── products_faiss_server.py      # 产品FAISS服务 (端口5006)
-        ├── KG_filter_server.py           # 知识图谱过滤服务 (端口6666)
+        ├── asr_server.py                 # ASR服务 
+        ├── embedding_service.py          # 嵌入服务 
+        ├── reranker_service.py           # 重排序服务 
+        ├── rewrite_faiss_server.py       # 查询重写FAISS服务 
+        ├── products_faiss_server.py      # 产品FAISS服务 
+        ├── KG_filter_server.py           # 知识图谱过滤服务 
         ├── KG_filter_dataset_build.py    # KG过滤数据集构建
-        ├── qwen3_reranker_server.py      # Qwen3重排序服务
+        ├── qwen3_reranker_server.py      # Qwen3个性化推荐服务
         ├── inference.py                  # 推理服务
         └── temp_wavs/                    # 临时音频文件
 ```
